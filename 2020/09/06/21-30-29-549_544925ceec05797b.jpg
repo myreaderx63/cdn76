@@ -1,0 +1,2919 @@
+
+
+
+<!DOCTYPE html><!--[if IE]><![endif]-->
+<!--[if lt IE 7]><html class="ie ie6 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="ie ie7 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="ie ie9 no-js" lang="en-US"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+
+  <!-- Piano / VX Composer -->
+  <script>
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function (adblocker) {
+      var d = new Date();
+      d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+      document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    }
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+  </script>
+
+ <script src="https://scripts.webcontentassessor.com/scripts/85d8ddb05bcf089b2c29e59623ae519ad02e2a929bfaac10d875c38b93211525"></script>
+  <script src="//twt-assets.washtimes.com/js/prebid2.44.1.235e1c61f2a9.js"></script>
+
+  
+   <!-- BEGIN marfeel -->
+   <script data-mrf-script="garda" data-mrf-host="bc.marfeelcache.com" src="https://bc.marfeelcache.com/statics/marfeel/gardac-sync.js" data-cfasync="false"></script>
+    <!-- END marfeel -->
+  
+
+  <script id="js-jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  
+
+    <!-- Load GPT ASYNC --->
+<script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script>
+   var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   googletag.cmd.push(function(){
+     console.log('__ADS enableSingleRequest');
+     googletag.pubads().enableSingleRequest();
+     console.log('__ADS disableInitialLoad');
+     googletag.pubads().disableInitialLoad();
+     console.log('__ADS enableServices');
+     googletag.enableServices();
+   });
+
+  window.GPT = {
+    SITE: 'production',
+    ACCOUNT: '/5856/wash.times'
+  };
+  window.GPT.segmentation = document.cookie.match('Segmentation=Preferred') ? 'Preferred' : 'Normal';
+</script>
+
+
+    <script async src="//twt-assets.washtimes.com/js/dart.8ad33fb3ede5.js"></script>
+    <!-- BEGIN: Nativo -->
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <!-- End Nativo Code -->
+    
+    <script>
+      //load the apstag.js library
+      !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    </script>
+    <script src="//twt-assets.washtimes.com/js/twt_app.ca3718d4e49d.js"></script>
+  
+
+  
+  <script>
+    window.GPT.path = '/5856/wash.times/politics';
+    window.GPT.cats = 'politics';
+    window.GPT.slug = 'politics';
+    window.GPT.contenttype = 'category';
+  </script>
+
+
+  
+  <script type="text/javascript" src="//twt-assets.washtimes.com/v4/js/ads/config/category.a69b520671c8.js"></script>
+
+
+  
+	<!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17692074", c3: "", c4: "www.washingtontimes.com/news/politics/?utm_medium=RSS/favicon.ico" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="//b.scorecardresearch.com/p?c1=2&c2=17692074&c3=&c4=www.washingtontimes.com/news/politics/?utm_medium=RSS/favicon.ico&c5=&c6=&c15=&cv=2.0&cj=1" />
+  </noscript>
+	<!-- End comScore Tag -->
+  
+
+  
+  <!-- BEGIN onesignal -->
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: '90fa34ea-9c30-4657-83d5-14b0f91fb62c',
+      autoRegister: true,
+      subdomainName: 'washtimes',
+      safari_web_id: 'web.onesignal.auto.11181d92-f3cb-414e-9b3e-6471e643153c',
+      persistNotification: false,
+      httpPermissionRequest: {
+        enable: true
+      },
+      notifyButton: {
+        enable: true, /* Required to use the Subscription Bell */
+      /* SUBSCRIPTION BELL CUSTOMIZATIONS START HERE */
+        size: 'medium', /* One of 'small', 'medium', or 'large' */
+        theme: 'default', /* One of 'default' (red-white) or 'inverse" (white-red) */
+        position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */
+        offset: {
+            bottom: '250px',
+            left: '0px', /* Only applied if bottom-left */
+            right: '15px' /* Only applied if bottom-right */
+        },
+        prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
+        showCredit: false, /* Hide the OneSignal logo */
+        text: {
+            'tip.state.unsubscribed': 'Subscribe to notifications',
+            'tip.state.subscribed': "You're subscribed to notifications",
+            'tip.state.blocked': "You've blocked notifications",
+            'message.prenotify': 'Click to subscribe to notifications',
+            'message.action.subscribed': "Thanks for subscribing!",
+            'message.action.resubscribed': "You're subscribed to notifications",
+            'message.action.unsubscribed': "You won't receive notifications again",
+            'dialog.main.title': 'Manage Site Notifications',
+            'dialog.main.button.subscribe': 'SUBSCRIBE',
+            'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+            'dialog.blocked.title': 'Unblock Notifications',
+            'dialog.blocked.message': "Follow these instructions to allow notifications:"
+        },
+      }
+    }]);
+  </script>
+  <!-- END onesignal -->
+  
+
+	<title>Political News - Washington DC Politics - Washington Times</title>
+
+	
+		<meta name="description" content="Looking to stay up on the latest political news about Washington DC politics?   Look no further than the expert coverage provided by the Washington Times." />
+		<meta name="keywords" content="political news, washington dc politics" />
+	
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="bitly-verification" content="d180fd45f70d" />
+	<meta property="fb:app_id" content="877559545760875" />
+  <meta name="msvalidate.01" content="5B44585918D69318CA2120B5FA20D85C" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+	<meta http-equiv="x-rim-auto-match" content="none" />
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="author" content="The Washington Times http://www.washingtontimes.com" />
+  <meta name="serverf" content="web0" />
+  
+  
+
+  <!-- Pinterest Verify Code -->
+  <meta name="p:domain_verify" content="a57fa64b791c3f2c004bf337ea4b54da" />
+  <!-- END Pinterest Verify Code -->
+  <!-- Pinterest Tracking Code -->
+  <script type="text/javascript"> !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");  pintrk('load','2614346040902'); pintrk('page', { page_name: 'My Page', page_category: 'My Page Category' }); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614346040902&noscript=1" /> </noscript>
+  <!-- END Pinterest Tracking Code -->
+  <!-- Pinterest Event Code -->
+  <script>
+  pintrk('track', 'pagevisit' , {
+    promo_code: 'TWTCHACKAPINT'
+  });
+  </script>
+  <!-- END Pinterest Event Code -->
+
+	
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="//www.washingtontimes.com/rss/headlines/
+    news/politics/"/>
+
+	
+  <script type="text/javascript">
+    var refresher = setTimeout("location.reload(true)", 420000);
+  </script>
+
+
+	<link rel="shortcut icon" href="//twt-assets.washtimes.com/images/favicon.30333d68dff6.ico" />
+	<link rel="apple-touch-icon" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-precomposed.faa3cb2fc54e.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-72x72-precomposed.a1d8974619ea.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-114x114-precomposed.5ca7e79711fa.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-precomposed.faa3cb2fc54e.png" />
+  
+  <link rel="canonical" href="https://www.washingtontimes.com/news/politics/" />
+  
+
+	<link rel="stylesheet" href="//twt-assets.washtimes.com/css/global.103a94490cd4.css" />
+
+  <link href="//twt-assets.washtimes.com/sass/main.1e0f402773bd.css" rel="stylesheet" type="text/css" />
+	<link id="css-google-fonts" rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Montserrat:400,700|Signika:400,600" media="all" />
+	<link id="css-font-awesome" rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all" />
+
+	
+	<link rel="stylesheet" type="text/css" href="//twt-assets.washtimes.com/css/tablet.d12a55c63ff0.css" media="(max-width: 1024px)" />
+	
+	<!--[if IE]><link id="css-twig-ie" rel="stylesheet" type="text/css" href="//twt-assets.washtimes.com/v4/css/ie.6041df651bb7.css" media="all" /><![endif]-->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js"></script>
+		<script type="text/javascript" src="//twt-assets.washtimes.com/v4/js/respond.custom.min.f788fbb39f96.js"></script>
+	<![endif]-->
+
+	
+  <link href="//twt-assets.washtimes.com/sass/hub.76648d18b852.css" rel="stylesheet" type="text/css" />
+
+
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '329974197684672');
+  <!-- Facebook Engage Pixel -->
+  fbq('init', '450591302454597');
+  <!-- End Facebook Engage Pixel -->
+  
+
+  fbq('track', "PageView");
+  fbq('track', 'ViewContent');
+
+  fbq('trackSingle', '450591302454597' , 'Subscribe', {value: '0.00', currency: 'USD', predicted_ltv: '0.00'});
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1061671217207746&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+
+  
+
+  
+
+
+<!-- Admiral: Visitor Relationship Management -->
+<!-- California Consumer Protection Act (CCPA) tag for washingtontimes.com -->
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://absorbingband.com/v2/0/mpgojj9okZ_PK5RI-vjl1MO6LRJveNXviP_MxooIfCpxH3OCglgZD0",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,"admiral");!(function(n,e,r,t){function o(){if((function o(t){try{return(t=localStorage.getItem("v4ac1eiZr0"))&&0<t.split(",")[4]}catch(n){}return!1})()){var t=n[e].pubads();typeof t.setTargeting===r&&t.setTargeting("admiral-engaged","true")}}(t=n[e]=n[e]||{}).cmd=t.cmd||[],typeof t.pubads===r?o():typeof t.cmd.unshift===r?t.cmd.unshift(o):t.cmd.push(o)})(window,"googletag","function");;;;!(function(t,n,i,u,e,o){var a=n[i];function r(t){if(t){var u=(t.data||{})[i+"Call"];u&&n[i](u.command,u.version,function(n,i){t.source.postMessage({__uspapiReturn:{returnValue:n,success:i,callId:u.callId}},"*")})}}if((function c(){if(!window.frames[u]){var n=t.body;if(n){var i=t.createElement("iframe");i.style.display="none",i.name=u,n.appendChild(i)}else setTimeout(c,5)}})(),"function"!=typeof a){var s={getUSPData:function(n,i){return n!==1?i&&i(null,!1):i&&i({version:null,uspString:null},!1)}};a=n[i]=function(n,i,t){return s[n](i,t)},n.addEventListener?n.addEventListener("message",r,!1):n.attachEvent&&n.attachEvent("onmessage",r)}o=t.createElement(e),t=t.getElementsByTagName(e)[0],o.src="https://absorbingband.com/v2/0/izqmnfqOO4qXxbAB0J_IoCQ7sdw9msdhZV9K5e3t3-h-MBkqTKWot2E2smulTA8Phnryc8e",t.parentNode.insertBefore(o,t)})(document,window,"__uspapi","__uspapiLocator","script");</script>
+<!-- END Admiral -->
+<!-- Facebook Link Ownership -->
+<meta property="fb:pages" content="35994014410" />
+<!-- END Facebook Link Ownership -->
+
+<!-- Google+ Experiment -->
+<link href="https://plus.google.com/u/0/112795231933243492488" rel="publisher" />
+<!-- END Google+ Experiment -->
+
+<!-- BEGIN Bing UET -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5695066"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5695066&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!-- END Bing UET -->
+
+<!-- Twitter universal website tag code -->
+<script>
+  !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+  },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+  a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+  // Insert Twitter Pixel ID and Standard Event data below
+  twq('init','nwae8');
+  twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<!-- LiveConnectTag for publishers -->
+<script type="text/javascript" src="//b-code.liadm.com/a-01en.min.js" async="true" charset="utf-8"></script>
+<!-- LiveConnectTag for publishers -->
+
+<noscript><div id="no-js-warning">JavaScript is required for full functionality on this website, but scripting is currently disabled. Please enable JavaScript and reload this page.</div></noscript>
+
+
+  
+  
+  
+
+  
+  <!-- BEGIN: Google Analytics -->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3328123-2']);
+    _gaq.push(['_setCustomVar', 1, 'PageType', 'SubSection', ]);
+_gaq.push(['_setCustomVar', 4, 'UserSegment', 'Anonymous', ]);
+_gaq.push(['_setCustomVar', 3, 'ChildNode', 'politics', ]);
+_gaq.push(['_setCustomVar', 2, 'TopNode', 'news', ]);
+
+    _gaq.push(['_setCustomVar', 1, 'Segmentation', GPT.segmentation]);
+    _gaq.push(['_setDomainName', 'washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times']);
+    _gaq.push(['_addIgnoredOrganic', 'the washington times']);
+    _gaq.push(['_addIgnoredOrganic', 'washingtontimes']);
+    _gaq.push(['_addIgnoredOrganic', 'washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'www.washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times newspaper']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times news']);
+    _gaq.push(['_addIgnoredOrganic', 'wash times']);
+    _gaq.push(['_addIgnoredOrganic', 'washtimes']);
+    _gaq.push(['_addIgnoredOrganic', 'washtimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington time']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washinton times']);
+    _gaq.push(['_addIgnoredOrganic', 'wahington times']);
+    _gaq.push(['_addIgnoredOrganic', 'the washington times newspaper']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var sitepage;
+  </script>
+  <!-- END: Google Analytics -->
+  
+
+  
+  
+
+  
+  <script>
+    function comscoreBeacon () {
+      (self.COMSCORE && COMSCORE.beacon({c1: "2", c2: "17692074"}));
+      $.get('/comscore-pageview-candidate.html');
+    }
+  </script>
+  
+
+  <script type="text/javascript">
+    $(window).scroll(function() {
+      if ($(window).width() > 800) {
+        if ($(this).scrollTop() > 150) {
+          $('.header-container').addClass('sticky');
+          $('body').css('padding-top', '157px');
+          updateMenuAccountOptions(true);
+        } else {
+          $('.header-container').removeClass('sticky');
+          $('body').css('padding-top', 0);
+          updateMenuAccountOptions(false);
+        }
+      }
+    });
+
+    // Mobile menu
+    $(document).ready(function() {
+      var buttonCount = 0;
+      var slideMenu = document.querySelector('#cssmenu');
+
+      $('#mobileMenuButton').on('click', function() {
+        $(this).toggleClass('open');
+
+        if (buttonCount % 2 === 0) {
+          slideMenu.style.marginTop = 0;
+          buttonCount++;
+        } else {
+          slideMenu.style.marginTop = '-200vh';
+          buttonCount++;
+        }
+      });
+    });
+  </script>
+
+<!-- Engage Google re-marketing -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-771189196"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'AW-771189196');
+  </script>
+
+<!-- Begin Adwords Pageview Tracking -->
+<!-- Global site tag (gtag.js) - Google Ads: 878499686 -->
+<script async src=“https://www.googletagmanager.com/gtag/js?id=AW-878499686”></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-878499686');
+</script>
+<!-- Event snippet for Page Views conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-878499686/nhUjCL7egHsQ5q7zogM'});
+</script>
+<!-- End Adwords Pageview Tracking -->
+</head>
+
+<body class="
+  
+  
+    home with-editors-pick-info-bar
+  
+">
+
+  
+
+  <!-- Begin #wrapper -->
+  <div id="wrapper">
+
+    
+      <div class="ad-slot"
+     id="div-gpt-ad-oop"
+     data-ad-settings="">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-oop');
+  ADSFORPAGE.push('div-gpt-ad-oop');
+</script>
+</div>
+
+
+    
+
+    <div class="sr-only"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+    <div class="globalheader_container">
+      
+      <div class="header-container">
+        <div id="mobileMenuButton">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <div class="wrapcontainer">
+          <header id="mainnav">
+            <div class="topper">
+              <div class="sponsor headcol"></div>
+              <div class="sitelogo headcol">
+                <a data-track-event="NavBar,home-logo,positionhome" href="/" title="The Washington Times | Home"><img
+                  src="//twt-assets.washtimes.com/images/TWTlogo3.5238e37e24b5.png" alt="Logo: The Washington Times"
+                  class="blacklogo"/><img src="//twt-assets.washtimes.com/img/WLogoNoBack.b80e1949f96a.png"
+                                          alt="Logo: The Washington Times" class="whitelogo"
+                                          style="display: none;"/></a><br/><em>Reliable Reporting. The Right
+                Opinion.</em>
+              </div>
+              <div class="signin headcol" style="vertical-align: middle">
+                <div class="signinbox">
+                  <div class="leftSignin">
+                    <a href="/subscribe/?subscribe-button-header">
+                      <strong>Subscribe</strong><br/>
+                    </a>
+                  </div>
+                  <div class="leftWelcome">
+                      <a href="/gift-subscription/?gift-button-header">
+                      <strong>Give a gift</strong><br/>
+                      </a>
+                  </div>
+
+
+                  
+                  <div class="rightSignin dropdownmenu">
+
+                    <p class="dropbtn" id="piano-login" style="margin:0px; min-width: 75px; font-size: 18px">
+                      <strong class="dropbtn">Sign In</strong>
+                    </p>
+
+                      <div id="anonUserMenu" style="display:none">
+                        <a href="javascript: showPianoLogin()">Sign In</a>
+                        <a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=header">Today's E-Edition</a>
+                        <a href="/newsletters/manage/?subscribe-button-header">Manage Newsletters</a>
+                        <a href="/subscribe/?subscribe-button-header">Subscribe</a>
+                      </div>
+
+                       <div id="memberMenu" style="display:none">
+                        <a href="javascript: pianoLogout()">Sign Out</a>
+                        <a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=header">Today's E-Edition</a>
+                        <a href="/newsletters/manage/?subscribe-button-header">Manage Newsletters</a>
+                        <a href="/my-account/?utm_source=twt&utm_medium=link&utm_campaign=my-account-dropdown">My Account</a>
+                        <a href="/subscribe/?subscribe-button-header">Subscribe</a>
+                      </div>
+
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+          </header>
+          <div id="cssmenu">
+            <ul>
+              
+                
+
+	<li class="has-sub active" id="nav_root_news">
+		<a id="main-nav-drop1" href="javascript:;" title="News">News</a>
+		
+
+	<ul>
+	
+		<li class="has-sub active"><a href="/news/politics/" title="Politics" data-track-event="NavBarSub,politics,positionpolitics">Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/coronavirus-covid-19-pandemic-updates/" title="COVID-19 Updates " data-track-event="NavBarSub,covid-19-updates,positioncovid-19-updates">COVID-19 Updates </a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/national/" title="National" data-track-event="NavBarSub,national,positionnational">National</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/world/" title="World" data-track-event="NavBarSub,world,positionworld">World</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/security/" title="Security" data-track-event="NavBarSub,security,positionsecurity">Security</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/business-economy/" title="Business &amp; Economy" data-track-event="NavBarSub,business-economy,positionbusiness-economy">Business &amp; Economy</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/local/" title="D.C. Local" data-track-event="NavBarSub,dc-local,positiondc-local">D.C. Local</a>
+		</li>
+	
+		<li class="has-sub"><a href="/media-spotlight/" title="Media Spotlight" data-track-event="NavBarSub,media-spotlight,positionmedia-spotlight">Media Spotlight</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-politics/" title="Inside Politics" data-track-event="NavBarSub,inside-politics,positioninside-politics">Inside Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-the-beltway/" title="Inside the Beltway" data-track-event="NavBarSub,inside-the-beltway,positioninside-the-beltway">Inside the Beltway</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/waste-fraud-abuse/" title="Waste, Fraud &amp; Abuse" data-track-event="NavBarSub,waste-fraud-abuse,positionwaste-fraud-abuse">Waste, Fraud &amp; Abuse</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-the-ring/" title="Inside the Ring" data-track-event="NavBarSub,inside-the-ring,positioninside-the-ring">Inside the Ring</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/" title="Culture" data-track-event="NavBarSub,culture,positionculture">Culture</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/entertainment/" title="Entertainment" data-track-event="NavBarSub,entertainment,positionentertainment">Entertainment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/technology/" title="Technology" data-track-event="NavBarSub,technology,positiontechnology">Technology</a>
+		</li>
+	
+		<li class="has-sub"><a href="https://www.legacy.com/washingtontimes/" title="Obituaries" data-track-event="NavBarSub,obituaries,positionobituaries">Obituaries</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/today/" title="Just the Headlines" data-track-event="NavBarSub,just-the-headlines,positionjust-the-headlines">Just the Headlines</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/trump-central/" title="Trump Central" data-track-event="NavBarSub,trump-central,positiontrump-central">Trump Central</a>
+		</li>
+	
+		<li class="has-sub"><a href="/elections/" title="Campaign 2020" data-track-event="NavBarSub,campaign-2020,positioncampaign-2020">Campaign 2020</a>
+		</li>
+	
+		<li class="has-sub"><a href="/multimedia/" title="Photo Galleries" data-track-event="NavBarSub,photo-galleries,positionphoto-galleries">Photo Galleries</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/dive-deeper/" title="Dive Deeper" data-track-event="NavBarSub,dive-deeper,positiondive-deeper">Dive Deeper</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_policy">
+		<a id="main-nav-drop2" href="javascript:;" title="Policy">Policy</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/specials/energy-environment-news/" title="Energy &amp; Environment" data-track-event="NavBarSub,energy-environment,positionenergy-environment">Energy &amp; Environment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/banking-finance/" title="Banking &amp; Finance" data-track-event="NavBarSub,banking-finance,positionbanking-finance">Banking &amp; Finance</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/health-care-reform/" title="Health Care Reform" data-track-event="NavBarSub,health-care-reform,positionhealth-care-reform">Health Care Reform</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/second-amendment-and-gun-control/" title="Second Amendment" data-track-event="NavBarSub,second-amendment,positionsecond-amendment">Second Amendment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/immigration-reform/" title="Immigration Reform" data-track-event="NavBarSub,immigration-reform,positionimmigration-reform">Immigration Reform</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/intelligence-cybersecurity/" title="Homeland &amp; Cybersecurity" data-track-event="NavBarSub,homeland-cybersecurity,positionhomeland-cybersecurity">Homeland &amp; Cybersecurity</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/defense-aerospace/" title="Aerospace &amp; Defense" data-track-event="NavBarSub,aerospace-defense,positionaerospace-defense">Aerospace &amp; Defense</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/taxes-budget/" title="Taxes &amp; Budget" data-track-event="NavBarSub,taxes-budget,positiontaxes-budget">Taxes &amp; Budget</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/law-enforcement-intelligence/" title="Law Enforcement &amp; Intelligence" data-track-event="NavBarSub,law-enforcement-intelligence,positionlaw-enforcement-intelligence">Law Enforcement &amp; Intelligence</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/transportation-infrastructure/" title="Transportation &amp; Infrastructure" data-track-event="NavBarSub,transportation-infrastructure,positiontransportation-infrastructure">Transportation &amp; Infrastructure</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_opinion">
+		<a id="main-nav-drop3" href="/opinion/" title="Commentary">Commentary</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/opinion/" title="Commentary Main" data-track-event="NavBarSub,commentary-main,positioncommentary-main">Commentary Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/editorials/" title="Editorials" data-track-event="NavBarSub,editorials,positioneditorials">Editorials</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/letters/" title="Letters" data-track-event="NavBarSub,letters,positionletters">Letters</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/pruden-on-politics/" title="Pruden on Politics" data-track-event="NavBarSub,pruden-on-politics,positionpruden-on-politics">Pruden on Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/charles-hurt/" title="Charles Hurt" data-track-event="NavBarSub,charles-hurt,positioncharles-hurt">Charles Hurt</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/david-keene/" title="David Keene" data-track-event="NavBarSub,david-keene,positiondavid-keene">David Keene</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/tammy-bruce/" title="Tammy Bruce" data-track-event="NavBarSub,tammy-bruce,positiontammy-bruce">Tammy Bruce</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/ralph-z-hallow/" title="Ralph Z. Hallow" data-track-event="NavBarSub,ralph-z-hallow,positionralph-z-hallow">Ralph Z. Hallow</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/scott-walker/" title="Scott Walker" data-track-event="NavBarSub,scott-walker,positionscott-walker">Scott Walker</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/michael-mckenna/" title="Michael McKenna" data-track-event="NavBarSub,michael-mckenna,positionmichael-mckenna">Michael McKenna</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/cal-thomas/" title="Cal Thomas" data-track-event="NavBarSub,cal-thomas,positioncal-thomas">Cal Thomas</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/clifford-d-may/" title="Clifford D. May" data-track-event="NavBarSub,clifford-d-may,positionclifford-d-may">Clifford D. May</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/cheryl-k-chumley/" title="Cheryl K. Chumley" data-track-event="NavBarSub,cheryl-k-chumley,positioncheryl-k-chumley">Cheryl K. Chumley</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/joseph-curl/" title="Joseph Curl" data-track-event="NavBarSub,joseph-curl,positionjoseph-curl">Joseph Curl</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/everett-piper/" title="Everett Piper" data-track-event="NavBarSub,everett-piper,positioneverett-piper">Everett Piper</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/daniel-n-hoffman/" title="Daniel N. Hoffman" data-track-event="NavBarSub,daniel-n-hoffman,positiondaniel-n-hoffman">Daniel N. Hoffman</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/robert-knight/" title="Robert Knight" data-track-event="NavBarSub,robert-knight,positionrobert-knight">Robert Knight</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/rapid-reactions/" title="Rapid Reactions" data-track-event="NavBarSub,rapid-reactions,positionrapid-reactions">Rapid Reactions</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/tim-constantine/" title="Tim Constantine" data-track-event="NavBarSub,tim-constantine,positiontim-constantine">Tim Constantine</a>
+		</li>
+	
+		<li class="has-sub"><a href="/books/" title="Books" data-track-event="NavBarSub,books,positionbooks">Books</a>
+		</li>
+	
+		<li class="has-sub"><a href="/cartoons/" title="Cartoons" data-track-event="NavBarSub,cartoons,positioncartoons">Cartoons</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/us-russia-crosstalk/" title="U.S.-Russia Crosstalk" data-track-event="NavBarSub,us-russia-crosstalk,positionus-russia-crosstalk">U.S.-Russia Crosstalk</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_sports">
+		<a id="main-nav-drop4" href="/sports/" title="Sports">Sports</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/sports/" title="Sports Main" data-track-event="NavBarSub,sports-main,positionsports-main">Sports Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/washington-redskins-season/" title="Washington NFL Team" data-track-event="NavBarSub,washington-nfl-team,positionwashington-nfl-team">Washington NFL Team</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/football/" title="Football" data-track-event="NavBarSub,football,positionfootball">Football</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/baseball/" title="Baseball" data-track-event="NavBarSub,baseball,positionbaseball">Baseball</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/basketball/" title="Basketball" data-track-event="NavBarSub,basketball,positionbasketball">Basketball</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/ncaa/" title="NCAA" data-track-event="NavBarSub,ncaa,positionncaa">NCAA</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/thom-loverro/" title="Thom Loverro" data-track-event="NavBarSub,thom-loverro,positionthom-loverro">Thom Loverro</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/tennis/" title="Tennis" data-track-event="NavBarSub,tennis,positiontennis">Tennis</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/golf/" title="Golf" data-track-event="NavBarSub,golf,positiongolf">Golf</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/hockey/" title="Hockey" data-track-event="NavBarSub,hockey,positionhockey">Hockey</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/soccer/" title="Soccer" data-track-event="NavBarSub,soccer,positionsoccer">Soccer</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/horse-racing/" title="Horse Racing" data-track-event="NavBarSub,horse-racing,positionhorse-racing">Horse Racing</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/racing/" title="NASCAR &amp; Racing" data-track-event="NavBarSub,nascar-racing,positionnascar-racing">NASCAR &amp; Racing</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_special_reports">
+		<a id="main-nav-drop5" href="/specials/" title="Special Reports">Special Reports</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/specials/" title="Special Reports Main" data-track-event="NavBarSub,special-reports-main,positionspecial-reports-main">Special Reports Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/coronavirus-covid-19-pandemic-updates/" title="COVID-19 Updates " data-track-event="NavBarSub,covid-19-updates,positioncovid-19-updates">COVID-19 Updates </a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/losing-our-religion-fall-faith-threatens-america/" title="Losing our religion" data-track-event="NavBarSub,losing-our-religion,positionlosing-our-religion">Losing our religion</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/new-africa/" title="New Africa" data-track-event="NavBarSub,new-africa,positionnew-africa">New Africa</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/qatar-what-makes-americas-great-ally-special/" title="Qatar" data-track-event="NavBarSub,qatar,positionqatar">Qatar</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/energy-2019/" title="Energy 2019" data-track-event="NavBarSub,energy-2019,positionenergy-2019">Energy 2019</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/infrastructure-2019/" title="Infrastructure 2019" data-track-event="NavBarSub,infrastructure-2019,positioninfrastructure-2019">Infrastructure 2019</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/faith-and-family/" title="Faith &amp; Family" data-track-event="NavBarSub,faith-family,positionfaith-family">Faith &amp; Family</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/cyprus/" title="Cyprus 2020" data-track-event="NavBarSub,cyprus-2020,positioncyprus-2020">Cyprus 2020</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/iran-freedom-within-reach/" title="Free Iran Global Summit" data-track-event="NavBarSub,free-iran-global-summit,positionfree-iran-global-summit">Free Iran Global Summit</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_podcasts">
+		<a id="main-nav-drop6" href="/washington-times-podcasts/" title="Podcasts">Podcasts</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/washington-times-podcasts/" title="Podcasts Main" data-track-event="NavBarSub,podcasts-main,positionpodcasts-main">Podcasts Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/front-page-podcast/" title="Front Page Podcast" data-track-event="NavBarSub,front-page-podcast,positionfront-page-podcast">Front Page Podcast</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/politically-unstable-podcast/" title="Politically Unstable" data-track-event="NavBarSub,politically-unstable,positionpolitically-unstable">Politically Unstable</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/andy-parks-podcast/" title="Andy Parks" data-track-event="NavBarSub,andy-parks,positionandy-parks">Andy Parks</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/campaign-2020-podcast/" title="Campaign 2020" data-track-event="NavBarSub,campaign-2020,positioncampaign-2020">Campaign 2020</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/bold-blunt-podcast/" title="Bold &amp; Blunt" data-track-event="NavBarSub,bold-blunt,positionbold-blunt">Bold &amp; Blunt</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/rebellion-podcast/" title="The Rebellion" data-track-event="NavBarSub,the-rebellion,positionthe-rebellion">The Rebellion</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_games">
+		<a id="main-nav-drop7" href="/puzzles/games/" title="Games">Games</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/puzzles/games/" title="Games Main" data-track-event="NavBarSub,games-main,positiongames-main">Games Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/sudoku/" title="Play Sudoku" data-track-event="NavBarSub,play-sudoku,positionplay-sudoku">Play Sudoku</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/crossword/" title="Crossword Puzzle" data-track-event="NavBarSub,crossword-puzzle,positioncrossword-puzzle">Crossword Puzzle</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/word-search/" title="Word Search" data-track-event="NavBarSub,word-search,positionword-search">Word Search</a>
+		</li>
+	
+		<li class="has-sub"><a href="/quiz/" title="Quizzes" data-track-event="NavBarSub,quizzes,positionquizzes">Quizzes</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_subscribe">
+		<a id="main-nav-drop8" href="/subscribe/?subscribe-button-scroll" title="Subscribe">Subscribe</a>
+		
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_signin">
+		<a id="main-nav-drop9" href="/piano-sign-in" title="Sign In">Sign In</a>
+		
+
+
+	</li>
+
+
+              
+            </ul>
+          </div>
+        </div>
+        
+          
+  
+
+
+
+
+
+        
+        
+          <div class="topics">
+            <div class="topics">
+              
+
+  
+  <div><strong>TRENDING:</strong></div>
+  
+    <div class="noborder"><a href="/topics/donald-trump/" title="Donald Trump" data-track-event="Hilighted,topics">Donald Trump</a></div>
+  
+    <div><a href="/topics/national-football-league/" title="NFL" data-track-event="Hilighted,topics">NFL</a></div>
+  
+    <div><a href="/topics/milwaukee/" title="Milwaukee" data-track-event="Hilighted,topics">Milwaukee</a></div>
+  
+    <div><a href="/topics/nhl/" title="Nhl" data-track-event="Hilighted,topics">Nhl</a></div>
+  
+    <div><a href="/topics/churchill-downs/" title="Churchill Downs" data-track-event="Hilighted,topics">Churchill Downs</a></div>
+  
+    <div><a href="/topics/derby/" title="Derby" data-track-event="Hilighted,topics">Derby</a></div>
+  
+    <div><a href="/topics/houston/" title="Houston" data-track-event="Hilighted,topics">Houston</a></div>
+  
+    <div><a href="/topics/joe-biden/" title="Joe Biden" data-track-event="Hilighted,topics">Joe Biden</a></div>
+  
+    <div><a href="/topics/kenosha/" title="Kenosha" data-track-event="Hilighted,topics">Kenosha</a></div>
+  
+    <div><a href="/topics/phoenix/" title="Phoenix" data-track-event="Hilighted,topics">Phoenix</a></div>
+  
+
+
+            </div>
+          </div>
+        
+      </div>
+      
+    </div>
+
+    <!-- Begin Piano My-Account Section -->
+    
+    <script>
+
+      function navIsSticky() {
+        if ($('.header-container.sticky').length ){
+          return true;
+        }
+        return false;
+      }
+
+      function updateMenuAccountOptions(isSticky) {
+        if (isSticky) {
+          tp = window.tp || [];
+          if (tp.pianoId) {
+            if (tp.pianoId.isUserValid()) {
+              $('#nav_root_subscribe').css('display', 'none');
+              $('#nav_root_signin a').text(tp.pianoId.getUser().given_name);
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '10px');
+            } else {
+              $('#nav_root_subscribe').css('display', 'inline-block');
+              $('#nav_root_signin a').text('Sign In');
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '-20px');
+            }
+          }
+
+        } else {
+          $('#nav_root_subscribe').css('display', 'none');
+          $('#nav_root_signin').css('display', 'none');
+
+        }
+      }
+
+      function pianoReadCustomVariableCookie(specificName) {
+          var cookieValue;
+          try {
+              // Try to get the cookie value with regexp
+              var match = document.cookie.match(new RegExp('(^| )__pcvc=([^;]+)'));
+              if (match) {
+                  // If cookie with this name was found - try to parse the JSON value
+                  cookieValue = JSON.parse(match[2]);
+              }
+          }
+          catch (e) {
+              // By default - set value as empty object
+              cookieValue = {};
+          }
+          if (!cookieValue) {
+              // By default - set value as empty object
+              cookieValue = {};
+          }
+          if (typeof specificName != "undefined") {
+              // Get the specific value from the set
+              if (typeof cookieValue[specificName] != "undefined") {
+                  return cookieValue[specificName];
+              }
+              return null;
+          }
+          return cookieValue;
+      }
+
+
+
+      function pianoSetCustomVariableCookie(name, value) {
+          // Get all existing values from the cookie
+          var cookieValue = pianoReadCustomVariableCookie();
+          // Set the value
+          cookieValue[name] = value;
+
+          // Get cookie expiration date in 3 years
+          var d = new Date();
+          d.setTime(d.getTime() + (94608000000));
+          var expires = "expires=" + d.toUTCString();
+
+          // Write the cookie value
+          document.cookie = "__pcvc=" + JSON.stringify(cookieValue) + ";" + expires + ";path=/";
+      }
+
+      function showPianoLogin() {
+        tp = window.tp || [];
+        tp.push(["init", function () {
+          tp.pianoId.show({
+            screen: 'login',
+            loggedIn: function (data) {
+              console.log('user ', data.user, ' logged in with token', data.token);
+
+              //hide Subscribe button
+              $('#piano-login').html('<span class="signintext">' + tp.pianoId.getUser().given_name + '</span>');
+              $('.leftSignin').hide();
+              $('.leftWelcome').css('display', 'table-cell');
+
+              $('#anonUserMenu').removeClass('dropdown-content').css('display', 'none');
+              $('#memberMenu').addClass('dropdown-content').removeAttr('style');
+
+
+              $('.rightSignin').removeClass('rightSignin').addClass('accountButton');
+
+              $('#nav_root_subscribe').css('display', 'none');
+              $('#nav_root_signin a').text(tp.pianoId.getUser().given_name);
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '10px');
+
+              gtag('event', 'page_view', {'send_to': 'AW-771189196', 'user_id': data.user.uid});
+
+            }
+          });
+          $('.tp-modal').css('z-index', '2000000000');
+        }]);
+      }
+
+      function pianoLogout() {
+        console.log('logout');
+        tp = window.tp || [];
+        tp.pianoId.logout(function () {
+          $('#memberMenu').css('display', 'none');
+
+          $('#anonUserMenu').addClass('dropdown-content').removeAttr('style');
+          $('#memberMenu').removeClass('dropdown-content').css('display', 'none');
+
+          $('#piano-login').html('<strong>Sign In</strong>');
+          $('.leftSignin').show();
+          $('.leftWelcome').hide();
+          $('.accountButton').removeClass('accountButton').addClass('rightSignin');
+        });
+        
+      }
+      //set initial user account state
+      tp = window.tp || [];
+      tp.push(["init", function() {
+
+        if (tp.pianoId.isUserValid()) {
+          $('#piano-login').html('<span class="signintext">' + tp.pianoId.getUser().given_name + '</span>');
+          //hide Subscribe button
+          $('.leftSignin').hide();
+          $('.leftWelcome').css('display', 'table-cell');
+          $('.rightSignin').removeClass('rightSignin').addClass('accountButton');
+
+          $('#anonUserMenu').removeClass('dropdown-content').css('display', 'none');
+          $('#memberMenu').addClass('dropdown-content').removeAttr('style');
+
+          gtag('event', 'page_view', { 'send_to': 'AW-771189196', 'user_id': tp.pianoId.getUser().uid });
+        } else {
+          $('#anonUserMenu').addClass('dropdown-content').removeAttr('style');
+          $('#memberMenu').removeClass('dropdown-content').css('display', 'none');
+        }
+
+      }]);
+
+      //newsletter signup handler
+      tp.push(["addHandler", "customEvent", function(event, b, c, d) {
+          switch (event.eventName) {
+              case 'submit':
+                  var email = '';
+                  var boomtrain_id = '';
+
+                  if ((typeof event.params.email != 'undefined') && (event.params.email.length > 0)) {
+                      email = event.params.email;
+                  }
+                  if ((typeof event.params.boomtrain != 'undefined') && (event.params.boomtrain.length > 0)) {
+                      boomtrain_id = event.params.boomtrain;
+                  }
+
+                  var data = {
+                      email: email
+                  };
+                  data[boomtrain_id] = 'on';
+                  $.post('/newsletters/boomtrain/subscribe/', data, function(){
+                       // If the email was added successfully set a cookie for Composer tracking.
+                      pianoSetCustomVariableCookie(boomtrain_id, 'true');
+                      var _gaq = window._gaq || [];
+                      _gaq.push(['_trackEvent', 'EmailWidget', 'email_signup', 'ribbon_' + boomtrain_id]);
+                      //We can close the offer now.
+                      tp.offer.close();
+                  });
+
+                  break;
+          }
+      }]);
+
+      // Read all values from cookie
+      var cookieValues = pianoReadCustomVariableCookie();
+
+      for (var i in cookieValues) {
+          // Set custom variables from cookie
+          tp.push(['setCustomVariable', i, cookieValues[i]]);
+      }
+
+      $(document).ready(function(){
+
+        $('#nav_root_signin').click(function(evt){
+              evt.preventDefault();
+              showPianoLogin();
+        });
+
+      });
+
+    </script>
+    
+    <!-- End Piano My-Account Section -->
+
+  </div>
+  <!-- End #wrapper -->
+
+  
+    <div class="container">
+      <div id="ad-lead" data-size="970x90" class="ad">
+        
+          <div class="ad-slot"
+     id="div-gpt-ad-leaderboard"
+     data-ad-settings="desktopLeaderboard">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-leaderboard');
+  ADSFORPAGE.push('div-gpt-ad-leaderboard');
+</script>
+</div>
+
+
+        
+      </div>
+    </div>
+  
+
+  
+  <!-- START 2-column layout -->
+  <div id="main" class="container">
+    <div class="row equal-heights two-column with-sidebar with-sidebar-secondary">
+      <section id="content" class="col-lg-22 right-border">
+        <div class="content-inner">
+
+          
+            <nav id="breadcrumb" role="navigation">
+              <ul class="menu">
+                <li><a href="/" title="Home">Home</a></li>
+                
+                  <li><a href="/news/">News</a></li>
+                  <li class="current">Politics</li>
+                
+              </ul>
+            </nav>
+          
+
+          <div id="page-title-container">
+            <h1 class="page-headline">Politics</h1>
+          </div>
+
+          
+          
+
+          
+          
+
+          
+            
+            
+          
+
+          
+            
+          
+          
+
+          
+            
+              
+              <section class="block article-list featured-articles">
+                
+                  
+
+<article class="hub-feature-first">
+  
+  
+
+  
+    <div class="main-photo">
+      <a href="/news/2020/sep/6/qanon-candidates-take-conspiracy-theory-mainstream/" data-track-event="Hilighted,politics_feature,position1"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/06/election_2020_qanon_legislatures_14300_c0-303-3600-2400_s575x335.jpg?1b653b44228df075bb1cfcc630cb003667e19c13" width="575" height="335"  /></a>
+    </div>
+  
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/6/qanon-candidates-take-conspiracy-theory-mainstream/" title="Candidates take QAnon mainstream: &#8216;It&#8217;s an exciting movement that opens up our minds&#8217;" data-track-event="Hilighted,politics_feature,position1">Candidates take QAnon mainstream: &#8216;It&#8217;s an exciting movement that opens up our minds&#8217;</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By Jonathan J. Cooper and Steve Karnowski </span> <span class="source"> - Associated Press </span> 
+
+
+	
+
+  </div>
+  <p>Candidates engaging with the QAnon conspiracy theory are running for seats in state legislatures this year, breathing more oxygen into a once-obscure conspiracy movement that has grown in prominence since adherents won Republican congressional primaries this year.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/qanon-candidates-take-conspiracy-theory-mainstream/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                
+                  
+
+<article class="hub-feature-second">
+  
+  
+
+  
+    <div class="main-photo">
+      <a href="/news/2020/sep/6/steven-mnuchin-nancy-pelosi-reach-informal-deal-av/" data-track-event="Hilighted,politics_feature,position2"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/01/Virus_Outbreak_Washington_25966.jpg-af55c_c0-304-3600-2401_s575x335.jpg?90855294d668e1428e8e45cff64e023822639559" width="575" height="335" alt="Treasury Secretary Steven Mnuchin testifies before the House Select Subcommittee on the Coronavirus Crisis, during a hybrid hearing, Tuesday, Sept. 1, 2020, on Capitol Hill in Washington. (Graeme Jennings/Pool via AP)" /></a>
+    </div>
+  
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/6/steven-mnuchin-nancy-pelosi-reach-informal-deal-av/" title="Mnuchin, Pelosi reach informal deal to avoid government shutdown, Treasury secretary says" data-track-event="Hilighted,politics_feature,position2">Mnuchin, Pelosi reach informal deal to avoid government shutdown, Treasury secretary says</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/ryan-lovelace/">Ryan Lovelace</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>Treasury Secretary Steven T. Mnuchin said Sunday that Republicans intend to begin working this week on a continuing resolution to keep the government from shutting down and will separately advance a &#8220;targeted&#8221; coronavirus-related stimulus package this week.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/steven-mnuchin-nancy-pelosi-reach-informal-deal-av/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                <div class="hub-separator">
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/4/trump-calls-democrats-allow-300-billion-unspent-st/" data-track-event="Hilighted,politics_feature,position3"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/04/Trump_34518.jpg-b7c3f_c0-209-4978-3110_s326x190.jpg?eb45b14d7a73833880c6cdfb8311d07d02452499" width="326" height="190" alt="President Donald Trump speaks during a news conference in the James Brady Press Briefing Room at the White House, Friday, Sept. 4, 2020, in Washington. (AP Photo/Evan Vucci)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/4/trump-calls-democrats-allow-300-billion-unspent-st/" title="Trump calls on Democrats to free up $300 billion in unspent stimulus money for checks to Americans" data-track-event="Hilighted,politics_feature,position3">Trump calls on Democrats to free up $300 billion in unspent stimulus money for checks to Americans</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/dave-boyer/">Dave Boyer</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/4/house-democrats-decry-efforts-shut-down-stars-and-/" data-track-event="Hilighted,politics_feature,position4"><img src="https://twt-thumbs.washtimes.com/media/image/2019/08/15/ted_lieu_36674_c0-196-4686-2927_s326x190.jpg?02ed830f98d81d557e2ce27510ea7c89dc3e51e0" width="326" height="190" alt="FILE - In this July 24, 2019 file photo Rep. Ted Lieu, D-Calif., asks questions to former special counsel Robert Mueller, as he testifies before the House Judiciary Committee hearing on his report on Russian election interference, on Capitol Hill, in Washington. Lieu an immigrant from Taiwan who is a now a Democratic California congressman has emerged as one of the most confrontational voices against President Donald Trump and his immigration policies. He hopes to use his enhanced profile and aggressive stances to help defeat Trump next year. (AP Photo/Andrew Harnik, File)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/4/house-democrats-decry-efforts-shut-down-stars-and-/" title="House Democrats decry efforts to shut down Stars and Stripes newspaper " data-track-event="Hilighted,politics_feature,position4">House Democrats decry efforts to shut down Stars and Stripes newspaper </a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/gabriella-munoz/">Gabriella Muñoz</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/4/pelosi-slams-trump-repeated-disparagement-american/" data-track-event="Hilighted,politics_feature,position5"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/02/APTOPIX_Pelosi_Salon_70216.jpg-c1b6e_c0-115-2754-1720_s326x190.jpg?30aa5e93600f2a37a8fa47096868e9e3dc356aa2" width="326" height="190" alt="House Speaker Nancy Pelosi pulls back her hair while speaking about her visit to a hair salon during a news conference at the Mission Education Center Elementary School Wednesday, Sept. 2, 2020, in San Francisco. Pelosi said she takes responsibility for trusting the word of a San Francisco hair salon she&amp;#39;s visited over the years when it told her it was OK to come in for a solo visit this week, even though the city still does not allow indoor beauty services. (AP Photo/Eric Risberg) **FILE**" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/4/pelosi-slams-trump-repeated-disparagement-american/" title="Pelosi slams Trump for &#8216;repeated disparagement&#8217; of Americans who died in war" data-track-event="Hilighted,politics_feature,position5">Pelosi slams Trump for &#8216;repeated disparagement&#8217; of Americans who died in war</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/gabriella-munoz/">Gabriella Muñoz</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                </div>
+                <div class="hub-separator">
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/4/biden-demands-trump-apologize-reportedly-disparagi/" data-track-event="Hilighted,politics_feature,position6"><img src="https://twt-thumbs.washtimes.com/media/image/2018/12/03/ye_france_wwi_centennial_21519_c0-0-4704-2741_s326x190.jpg?4ffef3b9f566a8661e6c170c5ce8618c2941287e" width="326" height="190" alt="World leaders, from left, Canadian Prime Minister Justin Trudeau, Morocco&amp;#39;s Prince Moulay Hassan, Moroccan King Mohammed VI, U.S. first lady Melania Trump, U.S. President Donald Trump, German Chancellor Angela Merkel, French President Emmanuel Macron and his wife Brigitte Macron, Russian President Vladimir Putin and Australian Governor-General Peter Cosgrove attend a ceremony at the Arc de Triomphe in Paris as part of the commemorations marking the 100th anniversary of the Nov. 11, 1918, armistice, which ended World War I, on Sunday, Nov. 11, 2018. (Ludovic Marin/Pool Photo via AP)  **FILE**" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/4/biden-demands-trump-apologize-reportedly-disparagi/" title="Biden demands Trump apologize for reportedly disparaging American war dead during visit to France" data-track-event="Hilighted,politics_feature,position6">Biden demands Trump apologize for reportedly disparaging American war dead during visit to France</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/seth-mclaughlin/">Seth McLaughlin</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/4/thomas-massie-defends-kenosha-gunman-kyle-rittenho/" data-track-event="Hilighted,politics_feature,position7"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/11/virus_outbreak_congressman_antibodies_91886_c0-217-5179-3235_s326x190.jpg?286fe23b2e1736c961590566c49f92d35f1de850" width="326" height="190" alt="In this March 27, 2020 file photo Rep. Thomas Massie, R-Ky., talks to reporters before leaving Capitol Hill in Washington. (AP Photo/Susan Walsh, file)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/4/thomas-massie-defends-kenosha-gunman-kyle-rittenho/" title="GOP congressman defends Kenosha gunman Kyle Rittenhouse, touts &#8216;incredible restraint and presence&#8217;" data-track-event="Hilighted,politics_feature,position7">GOP congressman defends Kenosha gunman Kyle Rittenhouse, touts &#8216;incredible restraint and presence&#8217;</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/andrew-blake/">Andrew Blake</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                    
+
+<article class="hub-feature-grid">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/vernon-jones-trump-supporting-black-democrat-decri/" data-track-event="Hilighted,politics_feature,position8"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/24/Election_2020_RNC_39138.jpg-3de2f_c48-0-2762-1582_s326x190.jpg?29835a23821b8d4544310e10de9655ef132368a4" width="326" height="190" alt="In this image from video, Georgia State Rep. Vernon Jones speaks from Washington, during the first night of the Republican National Convention Monday, Aug. 24, 2020. (Courtesy of the Committee on Arrangements for the 2020 Republican National Committee via AP)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/vernon-jones-trump-supporting-black-democrat-decri/" title="&#8216;Lynch mob&#8217;: Trump-supporting Black Democrat decries leftists&#8217; threats, intimidation tactics" data-track-event="Hilighted,politics_feature,position8">&#8216;Lynch mob&#8217;: Trump-supporting Black Democrat decries leftists&#8217; threats, intimidation tactics</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/valerie-richardson/">Valerie Richardson</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+</article>
+
+                  
+                </div>
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/white-house-calls-pelosi-apologize-public-over-hai/" data-track-event="Hilighted,politics_feature,position9"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/03/Trump_43455.jpg-e5aa3_c0-252-6000-3748_s326x190.jpg?cca56daa81f9e4b01a374c24a9f59aebbd0d1ea3" width="326" height="190" alt="With a video of House Speaker Nancy Pelosi at a hair salon displayed, White House press secretary Kayleigh McEnany speaks during a press briefing at the White House, Thursday, Sept. 3, 2020, Washington. (AP Photo/Evan Vucci)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/white-house-calls-pelosi-apologize-public-over-hai/" title="White House calls on Pelosi to apologize to the public over hair salon incident" data-track-event="Hilighted,politics_feature,position9">White House calls on Pelosi to apologize to the public over hair salon incident</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/dave-boyer/">Dave Boyer</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>The White House called on House Speaker Nancy Pelosi on Thursday to apologize to the public after she was caught without a mask on security video getting her hair done at a San Francisco salon despite coronavirus restrictions.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/white-house-calls-pelosi-apologize-public-over-hai/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/schumer-raps-talk-skinny-gop-coronavirus-bill-now-/" data-track-event="Hilighted,politics_feature,position10"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/03/Virus_Outbreak_Congress_22837.jpg-d37b4_c0-389-4637-3091_s326x190.jpg?05ffcae1bcf600ca3dd7fda9dc5d38bb0fc888e0" width="326" height="190" alt="Senate Minority Leader Sen. Chuck Schumer of N.Y., speaks to reporters on Capitol Hill in Washington, Monday, Aug. 3, 2020. Schumer and House Speaker Nancy Pelosi of Calif., met earlier with Treasury Secretary Steven Mnuchin and White House Chief of Staff Mark Meadows as they continued to negotiate a coronavirus relief package. (AP Photo/Susan Walsh) **FILE**" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/schumer-raps-talk-skinny-gop-coronavirus-bill-now-/" title="Schumer raps talk of &#8216;skinny&#8217; GOP coronavirus bill: &#8216;Now moving even further in the wrong direction&#8217;" data-track-event="Hilighted,politics_feature,position10">Schumer raps talk of &#8216;skinny&#8217; GOP coronavirus bill: &#8216;Now moving even further in the wrong direction&#8217;</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/gabriella-munoz/">Gabriella Muñoz</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>Senate Minority Leader Charles E. Schumer slammed talk of a slimmed-down GOP coronavirus relief bill as inadequate, as party leaders remain at an impasse on a more comprehensive deal.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/schumer-raps-talk-skinny-gop-coronavirus-bill-now-/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/black-lives-matter-activists-disrupt-kelly-loeffle/" data-track-event="Hilighted,politics_feature,position11"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/05/social_injustice-wnba_basketball_56202_c0-224-5345-3339_s326x190.jpg?60969a3154e04238e83086d2082ad43824c07795" width="326" height="190"  /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/black-lives-matter-activists-disrupt-kelly-loeffle/" title="Black Lives Matter activists disrupt Kelly Loeffler-Tom Cotton event" data-track-event="Hilighted,politics_feature,position11">Black Lives Matter activists disrupt Kelly Loeffler-Tom Cotton event</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By Jeff Amy </span> <span class="source"> - Associated Press </span> 
+
+
+	
+
+  </div>
+  <p>Black Lives Matter protesters broke up a campaign event Thursday with Republican U.S. Sens. Kelly Loeffler of Georgia and Tom Cotton of Arkansas.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/black-lives-matter-activists-disrupt-kelly-loeffle/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/democrats-grind-away-to-keep-voter-registration-ed/" data-track-event="Hilighted,politics_feature,position12"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/03/9_3_2020_registration8202_c0-0-4146-2416_s326x190.jpg?d9edc473d20f9747d049ee9230ab2a5c7891ed3a" width="326" height="190" alt="The pandemic has upended traditional campaigning. At the same time, Democrats&amp;#39; voter registration edge has steadily declined. (Associated Press)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/democrats-grind-away-to-keep-voter-registration-ed/" title="Democrats grind away to keep voter registration edge" data-track-event="Hilighted,politics_feature,position12">Democrats grind away to keep voter registration edge</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/david-sherfinski/">David Sherfinski</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>Democrats are working overtime to maintain their voter registration edge in battleground states after losing ground to Republicans in places such as Pennsylvania&#8217;s Westmoreland County, where President Trump rallied supporters Thursday.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/democrats-grind-away-to-keep-voter-registration-ed/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/joe-biden-lands-wisconsin-meets-jacob-blakes-famil/" data-track-event="Hilighted,politics_feature,position13"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/03/Election_2020_Biden_38975.jpg-9d707_c0-0-2700-1573_s326x190.jpg?35d957347214d6e4ccd63ec3bd5c44bb9d1abfb1" width="326" height="190" alt="Democratic presidential candidate former Vice President Joe Biden, steps from his car as he arrives to board a plane at New Castle Airport, in New Castle, Del., Thursday, Sept. 3, 2020, en route to Kenosha, Wis. (AP Photo/Carolyn Kaster)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/joe-biden-lands-wisconsin-meets-jacob-blakes-famil/" title="Joe Biden lands in Wisconsin, meets with Jacob Blake&#8217;s family" data-track-event="Hilighted,politics_feature,position13">Joe Biden lands in Wisconsin, meets with Jacob Blake&#8217;s family</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/david-sherfinski/">David Sherfinski</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>Democratic presidential nominee Joseph R. Biden touched down in Wisconsin on Thursday and met with the family of Jacob Blake, a Black man who was shot by police on Aug. 23 and left partially paralyzed.</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/joe-biden-lands-wisconsin-meets-jacob-blakes-famil/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/3/inside-the-beltwy-beware-of-the-media-chaperone/" data-track-event="Hilighted,politics_feature,position14"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/03/9_3_2020_beltway-aptopix-ele8202_c0-105-2500-1562_s326x190.jpg?df112d9d82a7ce0283188ec6d7a35e7b2e18ab07" width="326" height="190" alt="A new study finds marked disparities in media coverage of last week&amp;#39;s four-day Republican National Convention. (Associated Press)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/3/inside-the-beltwy-beware-of-the-media-chaperone/" title="Beware of the &#8216;media chaperone&#8217;" data-track-event="Hilighted,politics_feature,position14">Beware of the &#8216;media chaperone&#8217;</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/jennifer-harper/">Jennifer Harper</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>A handy new term has just emerged in the journalism world, courtesy of Rich Noyes, research director for the Media Research Center. That would be &#8220;media chaperone.&#8221; Mr. Noyes introduced the phrase after realizing that ABC, CBS, NBC, MSNBC and CNN managed to compromise coverage of the recent Republican National Convention by &#8220;heckling&#8221; during the four-day event with negative commentary and remarks during the broadcasts.
+
+</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/3/inside-the-beltwy-beware-of-the-media-chaperone/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+                  
+
+<article class="story">
+  <div class="main-photo">
+    
+    
+
+    
+      <a href="/news/2020/sep/2/nancy-pelosi-says-she-was-set-san-francisco-salon/" data-track-event="Hilighted,politics_feature,position15"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/02/pelosi_salon_c43-0-900-500_s326x190.jpg?7fca9ea81ff304707846d3d843e8b7dc59453ec0" width="326" height="190" alt="The owner of the shuttered San Francisco hair salon where House Speaker Nancy Pelosi was captured getting a prohibited shampoo treatment and blowout is speaking out. (screengrab via KTVU)" /></a>
+    
+  </div>
+
+  
+
+
+
+
+
+  <h2 class="article-headline"><a href="/news/2020/sep/2/nancy-pelosi-says-she-was-set-san-francisco-salon/" title="Nancy Pelosi says she was &#8216;set up&#8217; by San Francisco salon" data-track-event="Hilighted,politics_feature,position15">Nancy Pelosi says she was &#8216;set up&#8217; by San Francisco salon</a></h2>
+  
+  <div class="meta">
+  	<span class="byline"> By <a href="https://www.washingtontimes.com/staff/gabriella-munoz/">Gabriella Muñoz</a> </span> <span class="source"> - The Washington Times </span> 
+
+
+	
+
+  </div>
+  <p>House Speaker Nancy Pelosi said she was &#8220;set up&#8221; during her recent salon trip, which has sparked a wave of backlash from Republicans.
+
+</p>
+  <span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/2/nancy-pelosi-says-she-was-set-san-francisco-salon/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+</article>
+
+                
+              </section>
+              <!-- //.featured-articles -->
+              
+            
+          
+
+          
+            
+
+
+
+
+	<section class="block article-list related-articles">
+		<h2 class="block-title">Related Articles</h2>
+
+		
+
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/24/Election_2020_RNC_25626.jpg-d0e3a_c97-0-2811-1582_s326x190.jpg?d755727d255054acf0e7b459d3e0a4060de1925d" width="326" height="190" alt="In this image from video, Kim Klacik speaks from Baltimore, Md., during the first night of the Republican National Convention Monday, Aug. 24, 2020. (Courtesy of the Committee on Arrangements for the 2020 Republican National Committee via AP)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/kimberly-klacik-black-baltimore-republican-boosted/" title="Trump blasts Baltimore, boosts Kim Klacik: &#39;What the hell do you have to lose?&#39;">Trump blasts Baltimore, boosts Kim Klacik: &#39;What the hell do you have to lose?&#39;</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By Regina Garcia Cano </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>President Donald Trump in a series of tweets Sunday again took aim at Baltimore, this time calling it "the WORST IN NATION," and urged voters to elect a Maryland Republican congressional candidate for the seat formerly held by the late U.S. Rep. Elijah Cummings.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/kimberly-klacik-black-baltimore-republican-boosted/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+				      
+				    
+
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/labor-organizers-plan-series-of-socially-distanced/" title="Labor organizers plan series of socially distanced rallies ">Labor organizers plan series of socially distanced rallies </a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By  </span> <span class="source"> Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Labor organizers are planning to hold a series of socially distanced rallies across Massachusetts on Monday to mark Labor Day in response to the coronavirus instead of the movement's typical Labor Day breakfasts.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/labor-organizers-plan-series-of-socially-distanced/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_02004_c0-152-4392-2711_s326x190.jpg?56cf59467dc48cdc066ae0f59d0c529ba6fac748" width="326" height="190" alt="Democratic presidential candidate former Vice President Joe Biden and his running mate Sen. Kamala Harris, D-Calif., arrive to speak at a news conference at Alexis Dupont High School in Wilmington, Del., Wednesday, Aug. 12, 2020. (AP Photo/Carolyn Kaster)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/kamala-harris-biden-campaign-reluctant-accept-coro/" title="Biden campaign reluctant to accept vaccine before election: &#39;I would not trust Donald Trump&#39;">Biden campaign reluctant to accept vaccine before election: &#39;I would not trust Donald Trump&#39;</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/ryan-lovelace/">Ryan Lovelace</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+			17 minutes ago
+		
+	
+ </span>
+					</div>
+					<p>Democratic presidential nominee Joseph R. Biden's team is not eager to take any coronavirus vaccine that would be distributed before the November election, saying its distrust of President Trump is overriding.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/kamala-harris-biden-campaign-reluctant-accept-coro/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/27/election_2020_harris_31497_c0-43-2961-1768_s326x190.jpg?dc7f1827732ae80e7c8325ec8bcdce1964839595" width="326" height="190" alt="Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., speaks in Washington, Thursday, Aug. 27, 2020. (AP Photo/Carolyn Kaster)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/kamala-harris-joe-biden-could-lose-election-due-ru/" title="Kamala Harris: Biden could lose because of Russian interference">Kamala Harris: Biden could lose because of Russian interference</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/ryan-lovelace/">Ryan Lovelace</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Democratic vice presidential nominee Kamala D. Harris said Sunday that she thinks Russian interference could cause Democratic presidential nominee Joseph R. Biden to lose the 2020 election.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/kamala-harris-joe-biden-could-lose-election-due-ru/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/04/Trump_36032.jpg-ceb70_c0-252-6000-3748_s326x190.jpg?cca56daa81f9e4b01a374c24a9f59aebbd0d1ea3" width="326" height="190" alt="President Donald Trump speaks during a news conference in the James Brady Press Briefing Room at the White House, Friday, Sept. 4, 2020, in Washington. (AP Photo/Evan Vucci)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/navid-afkari-confession-aired-iran-after-trump-twe/" title="Iran airs wrestler&#39;s confession after Trump tweet">Iran airs wrestler&#39;s confession after Trump tweet</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By Jon Gambrell </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Iran has broadcast the televised confession of a wrestler facing the death penalty after a tweet from President Donald Trump criticizing the case, a segment that resembled hundreds of other suspected coerced confessions aired over the last decade in the Islamic Republic.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/navid-afkari-confession-aired-iran-after-trump-twe/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/25/APTOPIX_Police_Shooting_Wisconsin_20222.jpg-2b030_c0-283-5173-3297_s326x190.jpg?f04ebdf4b65db091c87bc3034f9af0114204a394" width="326" height="190" alt="An American flag falls from its pole as police attempt to secure the area after protesters set fire to the department of corrections building, late Monday, Aug. 24, 2020, in Kenosha, Wis. Protests have erupted following the police shooting of Jacob Blake a day earlier. (AP Photo/David Goldman)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/dave-wedding-vanderburgh-county-indiana-sheriff-de/" title="Indiana sheriff defects to GOP: &#39;I&#39;m tired of seeing fires set in our streets&#39;">Indiana sheriff defects to GOP: &#39;I&#39;m tired of seeing fires set in our streets&#39;</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By  </span> <span class="source"> Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>The sheriff of southern Indiana's largest county has switched to the Republican Party, accusing Democrats of endorsing flag burning, failing to acknowledge God and not supporting police.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/dave-wedding-vanderburgh-county-indiana-sheriff-de/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/06/summer_of_protest_55542_c0-218-5191-3243_s326x190.jpg?327cfabdb9b64dbbed93851be4a02ef89521f528" width="326" height="190"  /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/summer-of-protest-chance-for-change-but-obstacles-/" title="Summer of protest: Chance for change, but obstacles exposed ">Summer of protest: Chance for change, but obstacles exposed </a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By COLLEEN LONG and KAT STAFFORD and R.J. RICO </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Memorial Day brought the death of George Floyd at the hands of Minneapolis police, prompting hundreds of thousands of Americans to take to the streets in protest. President Donald Trump called Floyd's death a “disgrace" and momentum built around policing reform.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/summer-of-protest-chance-for-change-but-obstacles-/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/06/britain_assange_96520_c0-253-5390-3394_s326x190.jpg?80ead8123b2602cb10abb92096f405b165c84952" width="326" height="190"  /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/wikileaks-assange-to-fight-us-extradition-bid-in-u/" title="WikiLeaks&#39; Assange to fight US extradition bid in UK court">WikiLeaks&#39; Assange to fight US extradition bid in UK court</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By JILL LAWLESS </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>WikiLeaks founder Julian Assange is set to fight for his freedom in a British court after a decade of legal drama, as he challenges American authorities’ attempt to extradite him on spying charges over the site’s publication of secret U.S. military documents.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/wikileaks-assange-to-fight-us-extradition-bid-in-u/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2017/10/03/wizards_capitals_powell_jobs_50468_c0-104-1500-978_s326x190.jpg?b1d9ca987266faa670ba318d0fea87c364f982c2" width="326" height="190"  /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/laurene-powell-jobs-steve-jobs-widow-draws-donald-/" title="Trump rips Steve Jobs&#39; widow for &#39;wasting&#39; late Apple co-founder&#39;s money">Trump rips Steve Jobs&#39; widow for &#39;wasting&#39; late Apple co-founder&#39;s money</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/ryan-lovelace/">Ryan Lovelace</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>President Trump attacked Laurene Powell Jobs, widow of late Apple co-founder Steve Jobs, for "wasting" her dead husband's money.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/laurene-powell-jobs-steve-jobs-widow-draws-donald-/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/05/Trump_Boat_Parade_17180.jpg-d9d2f_c0-19-4500-2641_s326x190.jpg?3e96f17fe649ee0f24d4fe70af892798fcec4507" width="326" height="190" alt="A Trump masked boat rider waves to those on the Hwy 421 bridge during the South Holston Trump Boat Parade on Saturday, Sept. 5, 2020 in Bristol, Tenn. (Earl Neikirk/Bristol Herald Courier via AP)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/several-boats-sink-during-trump-parade-lake-travis/" title="&#39;Several&#39; boats sink during Trump parade; police investigating">&#39;Several&#39; boats sink during Trump parade; police investigating</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By  </span> <span class="source"> Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>A spokesperson for the Travis County sheriff's office in Texas says "several" boats sank Saturday while taking part in a parade in support of President Donald Trump.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/several-boats-sink-during-trump-parade-lake-travis/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/06/Racial_Injustice_Portland_41197.jpg-74537_c0-500-6048-4024_s326x190.jpg?9d6321af896ae996c9106c6dcc070713d3cd3b4c" width="326" height="190" alt="Police use chemical irritants and crowd control munitions to disperse protesters during a demonstration in Portland, Ore., Saturday, Sept. 5, 2020. Hundreds of people gathered for rallies and marches against police violence and racial injustice Saturday night in Portland, Oregon, as often violent nightly demonstrations that have happened for 100 days since George Floyd was killed showed no signs of ceasing. (AP Photo/Noah Berger)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/portland-protests-mark-100-straight-days-police-do/" title="Police dodge fire bombs as Portland protesters mark 100 straight days">Police dodge fire bombs as Portland protesters mark 100 straight days</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/stephen-dinan/">Stephen Dinan</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Portland erupted in a new round of violence Saturday night as rioters engaged in a street battle with police, throwing firebombs and firing fireworks at officers who responded with tear gas.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/portland-protests-mark-100-straight-days-police-do/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/05/michael_cohen_tell_all_memoir_07249_c0-174-4147-2590_s326x190.jpg?5698cce64116a8cb5ee1cc55551e195f651d41d3" width="326" height="190"  /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/cohen-memoir-casts-him-as-star-witness-against-tru/" title="Cohen memoir casts him as &#39;star witness&#39; against Trump ">Cohen memoir casts him as &#39;star witness&#39; against Trump </a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By JIM MUSTIAN and MICHAEL R. SISAK </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Michael Cohen's tell-all memoir makes the case that President Donald Trump is “guilty of the same crimes” that landed his former fixer in federal prison, offering a blow-by-blow account of Trump's alleged role in a hush money scandal that once overshadowed his presidency.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/cohen-memoir-casts-him-as-star-witness-against-tru/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/08/29/virus_outbreak_2020_census_56052_c43-0-2556-1465_s326x190.jpg?b04d37ab473ad10a83a6aa01ed1338a68fc57d6e" width="326" height="190" alt="This Sunday, April 5, 2020, photo shows an envelope containing a 2020 census letter mailed to a U.S. resident in Detroit.  Late on Saturday, Sept. 4, 2020, a U.S. district court judge in California issued a restraining order to prevent the Trump administration from ending in-person census interviews on Sept. 30. (AP Photo/Paul Sancya, File) **FILE**" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/6/judge-blocks-trump-administration-census-deadline/" title="Judge blocks Trump administration&#39;s census deadline">Judge blocks Trump administration&#39;s census deadline</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/stephen-dinan/">Stephen Dinan</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+			3 minutes ago
+		
+	
+ </span>
+					</div>
+					<p>A federal judge late Saturday issued a restraining order against the Trump administration forbidding it from ending in-person census counting on Sept. 30, ruling that more time is needed in order to have an accurate count.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/6/judge-blocks-trump-administration-census-deadline/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2020/09/03/michael_cohen_son_of_sam_law_53692_c0-241-5760-3598_s326x190.jpg?bdf6a0dbab7e9e8cf5538c027d419b736cc3ab59" width="326" height="190" alt="FILE - This July 24, 2020, file photo shows Michael Cohen, center, President Donald Trump&amp;#39;s former personal attorney, returning to his apartment, in New York, after being released from prison. So-called Son of Sam laws won&amp;#39;t keep Cohen from profiting from any part of his book, &amp;amp;quot;Disloyal: The True Story of the Former Personal Attorney to President Donald J. Trump,&amp;amp;quot; legal experts told The Associated Press, even if his memoir amounted to a how-to manual for tax evasion and campaign finance violations. (AP Photo/Mark Lennihan, File)" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/5/cohen-memoir-casts-him-as-star-witness-against-tru/" title="Cohen memoir casts him as &#39;star witness&#39; against Trump ">Cohen memoir casts him as &#39;star witness&#39; against Trump </a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By JIM MUSTIAN and MICHAEL R. SISAK </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Michael Cohen's tell-all memoir makes the case that President Donald Trump is “guilty of the same crimes” that landed his former fixer in federal prison, offering a blow-by-blow account of Trump's alleged role in a hush money scandal that once overshadowed his presidency.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/5/cohen-memoir-casts-him-as-star-witness-against-tru/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2018/10/31/election_2018_oregon_security_42259_c0-97-3250-1991_s326x190.jpg?fc9fd79d8d026f6194d9c9f69ce762d1e78d7358" width="326" height="190" alt="In this May 17, 2016, file photo, ballots are prepared for counting at Multnomah County election headquarters in Portland, Ore. (AP Photo/Don Ryan, File)  **FILE**" /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/5/state-bars-gop-voter-statement-says-it-was-29-seco/" title="State bars GOP voter statement, says it was 29 seconds late">State bars GOP voter statement, says it was 29 seconds late</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By  </span> <span class="source"> Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>The Oregon Republican Party's statement for the state voters' pamphlet arrived 29 seconds too late and won't appear in the guide mailed to voters for the November election, officials say.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/5/state-bars-gop-voter-statement-says-it-was-29-seco/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+
+						
+							<a href="" data-track-event="Hilighted,,position"><img src="https://twt-thumbs.washtimes.com/media/image/2019/03/06/trump_11565_c0-229-5472-3418_s326x190.jpg?1a7cffcc813a6550a0cc11d849b8166f1113bdfa" width="326" height="190" alt="Rep. Adam Kinzinger, R-Ill., speaks to the media, Wednesday, March 6, 2019, at the White House in Washington. (AP Photo/Jacquelyn Martin) " /></a>
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/5/adam-kinzinger-congressman-defends-fox-griffin-/" title="GOP&#39;s Kinzinger defends Fox News reporter after Trump calls for her firing ">GOP&#39;s Kinzinger defends Fox News reporter after Trump calls for her firing </a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By <a href="https://www.washingtontimes.com/staff/andrew-blake/">Andrew Blake</a> </span> <span class="source"> - The Washington Times
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>Rep. Adam Kinzinger, Illinois Republican, came to the defense of Fox News correspondent Jennifer Griffin after President Trump called for her firing from the cable-news channel Saturday.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/5/adam-kinzinger-congressman-defends-fox-griffin-/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+				      
+				    
+
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/5/in-ruling-judge-throws-lifeline-to-diversity-visa-/" title="In ruling, judge throws lifeline to diversity visa lottery">In ruling, judge throws lifeline to diversity visa lottery</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By ELLIOT SPAGAT </span> <span class="source"> - Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>A federal judge ordered the Trump administration to resume issuing diversity visas for immigrants from underrepresented countries, partially reversing a pandemic-related freeze on a wide range of immigrant and temporary visas.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/5/in-ruling-judge-throws-lifeline-to-diversity-visa-/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+			
+				<article class="story">
+					<div class="main-photo">
+				    
+				    
+				      
+				    
+
+						
+					</div>
+					<h2 class="article-headline"><a href="/news/2020/sep/5/former-comed-official-charged-in-federal-bribery-p/" title="Former ComEd official charged in federal bribery probe">Former ComEd official charged in federal bribery probe</a></h2>
+		      
+					<div class="meta">
+						<span class="byline"> By  </span> <span class="source"> Associated Press
+
+
+	
+		
+	
+ </span>
+					</div>
+					<p>A former ComEd vice president has been charged with bribery conspiracy, the first criminal charge tied to a federal probe that has implicated House Speaker Michael Madigan.</p>
+					<span class="share-count" data-for_url="https://www.washingtontimes.com/news/2020/sep/5/former-comed-official-charged-in-federal-bribery-p/"><i class="fa fa-share-square"></i> <span class="qty"></span> Shares </span>
+				</article>
+			
+		
+	</section>
+
+	
+
+
+
+	<nav id="pagination-below" class="pagination" role="navigation">
+		<div class="controls">
+			<span class="prev">
+				
+					<a href="javascript:;">previous</a>
+				
+			</span>
+			<span class="pages">
+				
+					
+						<a href="?page=1&amp;utm_medium=RSS%2Ffavicon.ico" data-track-event="Pagination,PageNumber,/news/politics/">1</a>
+					
+				
+					
+						<a href="?page=2&amp;utm_medium=RSS%2Ffavicon.ico" data-track-event="Pagination,PageNumber,/news/politics/">2</a>
+					
+				
+					
+						<a href="?page=3&amp;utm_medium=RSS%2Ffavicon.ico" data-track-event="Pagination,PageNumber,/news/politics/">3</a>
+					
+				
+			</span>
+			<span class="next">
+				
+					<a href="?page=2&amp;utm_medium=RSS%2Ffavicon.ico" data-track-event="Pagination,Next,/news/politics/">next</a>
+				
+			</span>
+		</div>
+	</nav>
+
+
+
+
+	
+	<!-- //.related-articles -->
+
+          
+
+        </div>
+      </section>
+
+      <aside id="secondary" class="col-lg-8">
+        <div class="aside-inner">
+
+          
+
+<div class="socialbar">
+  Follow Us
+
+  <a href="https://www.facebook.com/TheWashingtonTimes" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-facebook.jpg" class="socialicon" /></a>
+  <a href="https://twitter.com/WashTimes" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-twitter.jpg" class="socialicon" /></a>
+  <a href="https://www.instagram.com/washtimes/" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-instagram.jpg" class="socialicon" /></a>
+  <a href="/feeds/"><img src="//twt-assets.washtimes.com/img/icon-rss.jpg" class="socialicon" /></a>
+
+</div>
+
+<div class="search">
+  <form id="frm_search" action="/search/">
+    <fieldset>
+      <legend class="sr-only">Search</legend>
+      <label for="search-keyword" class="sr-only" title="Search Keyword">Search Keyword:</label>
+      <input type="hidden" name="cx" value="015385541671335030271:nfb7f1nj88q" />
+      <input type="hidden" name="cof" value="FORID:11" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <input id="search-keyword" name="q" placeholder="Search" type="search" value="" />
+      <input type="submit" name="sa" value="GO" class="btn btn-default btn-xs" title="Search" />
+    </fieldset>
+  </form>
+  <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+
+
+          <section class="block email-alerts">
+  <h2 class="block-title">Sign Up For Our
+    <small>Daily Newsletters</small>
+  </h2>
+  <div class="block-content">
+    <div id="breaking-signup-block" style="color: #fff;">
+      <form action="/newsletters/boomtrain/subscribe/" method="POST" name="breakingSignupForm" class="form-inline" onsubmit="emailAlertNewsletter(); return false;">
+        <fieldset>
+          <legend class="sr-only">Breaking News Alerts</legend>
+          <label for="alerts-email" class="sr-only" title="Enter your email address">Enter your email address:</label>
+          <input id="alerts-email" maxlength="40" name="email" placeholder="enter address&hellip;" type="Email" style="color: #000;"/>
+          <input value="Submit" title="Submit" type="submit"/>
+          <input type="hidden" value="on" name="breaking_news"/>
+          <input type="hidden" value="on" name="newsletter_morning"/>
+          <input type="hidden" value="on" name="newsletter_evening"/>
+          <input type="hidden" value="on" name="newsletter_sunday"/>
+          <input type="hidden" name="newsletter_source" value="newsletter_breaking-article" />
+          <p style="margin: 0; padding: 0; font-size: 11px;"><a href="/newsletters/manage/" style="color: #fff;">Manage Newsletters</a></p>
+        </fieldset>
+      </form>
+    </div>
+  </div>
+</section>
+<script>
+  function emailAlertNewsletter() {
+    let $form = $('form[name=breakingSignupForm]');
+    $.post($form.get(0).action, $form.serialize(), function (data) {
+      if (data.success) {
+         var _gaq = window._gaq || [];
+         _gaq.push(['_trackEvent', 'EmailWidget', 'email_signup', 'newsletter_breaking-article']);
+        var formBlock = document.getElementById('breaking-signup-block');
+        var theForm = formBlock.getElementsByTagName('form')[0];
+        theForm.innerHTML = 'Your email <b>' + data.email + '</b> will receive this newsletter.';
+      }
+    });
+  }
+</script>
+<!-- //.email-alerts -->
+
+
+
+          
+
+          <div id="ad-secondary-sidebar-1" data-size="300x600" class="ad">
+            <div class="ad-slot"
+     id="div-gpt-ad-right-sidebar-top"
+     data-ad-settings="desktopRightSideTop">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-right-sidebar-top');
+  ADSFORPAGE.push('div-gpt-ad-right-sidebar-top');
+</script>
+</div>
+
+
+          </div>
+
+          
+            
+
+<section class="block topic-list most-popular">
+  <h2 class="block-title">Most Popular</h2>
+  <div class="block-content">
+  	
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/aug/26/jacob-blakes-mother-tells-don-lemon-she-has-the-ut/" title="Jacob Blake&#39;s mother tells Don Lemon she has &#39;the utmost respect&#39; for Donald Trump" data-track-event="Most,Read,position0">Jacob Blake&#39;s mother tells Don Lemon she has &#39;the utmost respect&#39; for Donald Trump</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/6/kamala-harris-joe-biden-could-lose-election-due-ru/" title="Kamala Harris: Joe Biden could lose election due to Russian interference" data-track-event="Most,Read,position1">Kamala Harris: Joe Biden could lose election due to Russian interference</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/6/laurene-powell-jobs-steve-jobs-widow-draws-donald-/" title="Laurene Powell Jobs, Steve Jobs&#39; widow, draws Donald Trump&#39;s ire" data-track-event="Most,Read,position2">Laurene Powell Jobs, Steve Jobs&#39; widow, draws Donald Trump&#39;s ire</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/6/portland-protests-mark-100-straight-days-police-do/" title="Portland protests mark 100 straight days; police dodge fire bombs" data-track-event="Most,Read,position3">Portland protests mark 100 straight days; police dodge fire bombs</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/3/gofundme-effort-for-salon-owner-erica-kious-raises/" title="GoFundMe effort for salon owner Erica Kious raises $200,000 in hours, and still rising" data-track-event="Most,Read,position4">GoFundMe effort for salon owner Erica Kious raises $200,000 in hours, and still rising</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/6/navid-afkari-confession-aired-iran-after-trump-twe/" title="Navid Afkari confession aired by Iran after Trump tweet" data-track-event="Most,Read,position5">Navid Afkari confession aired by Iran after Trump tweet</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/4/don-lemon-rips-nancy-pelosi-for-set-up-excuse-it-w/" title="Don Lemon rips Nancy Pelosi for &#39;set up&#39; excuse: &#39;It would have been just as easy&#39; to apologize" data-track-event="Most,Read,position6">Don Lemon rips Nancy Pelosi for &#39;set up&#39; excuse: &#39;It would have been just as easy&#39; to apologize</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/6/kamala-harris-biden-campaign-reluctant-accept-coro/" title="Kamala Harris, Biden campaign reluctant to accept coronavirus vaccine before election" data-track-event="Most,Read,position7">Kamala Harris, Biden campaign reluctant to accept coronavirus vaccine before election</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/sep/5/state-bars-gop-voter-statement-says-it-was-29-seco/" title="State bars GOP voter statement, says it was 29 seconds late" data-track-event="Most,Read,position8">State bars GOP voter statement, says it was 29 seconds late</a></p>
+    </article>
+    
+    <article class="article">
+        <p><a href="https://www.washingtontimes.com/news/2020/aug/31/trumps-approval-rating-black-voters-soars-60-durin/" title="Trump&#39;s approval rating with Black voters soars by 60% during RNC: poll" data-track-event="Most,Read,position9">Trump&#39;s approval rating with Black voters soars by 60% during RNC: poll</a></p>
+    </article>
+    
+
+
+  </div>
+</section>
+<!-- //.most-popular -->
+          
+
+          <div id="ad-secondary-sidebar-2" data-size="300x250" class="ad">
+            <div class="ad-slot"
+     id="div-gpt-ad-right-sidebar-house"
+     data-ad-settings="mobileRightSideHouse">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-right-sidebar-house');
+  ADSFORPAGE.push('div-gpt-ad-right-sidebar-house');
+</script>
+</div>
+
+
+          </div>
+
+          <div id="ad-secondary-sidebar-3" data-size="300x250" class="ad">
+            <div id="div-gpt-ad-radio">
+  <script type="text/javascript">
+    console.log('__ADS element on page div-gpt-ad-radio');
+    ADSFORPAGE.push('div-gpt-ad-radio');
+  </script>
+</div>
+
+          </div>
+
+          
+            
+
+
+<section class="block our-voices desktop-only">
+  <h2 class="block-title">Commentary</h2>
+  <div class="block-content">
+	
+	
+		
+		<article>
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2018/everett-piper-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+      <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/everett-piper/">Everett Piper</a></a></h3>
+			<p><a href="/news/2020/sep/6/we-now-live-in-an-america-where-mob-rule-crushes-a/" title="We now live in an America where mob rule crushes all dissent">We now live in an America where mob rule crushes all dissent</a></p>
+		</article>
+		
+	
+		
+		<article>
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2016/robert-knight-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+      <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/robert-knight/">Robert Knight</a></a></h3>
+			<p><a href="/news/2020/sep/6/the-hypocrisy-of-nancy-pelosis-covid-19-hairdo-and/" title="The hypocrisy of Pelosi&#8217;s COVID-19 hairdo and Dems&#8217; sexcapades">The hypocrisy of Pelosi&#8217;s COVID-19 hairdo and Dems&#8217; sexcapades</a></p>
+		</article>
+		
+	
+		
+		<article>
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2017/cheryl-chumley-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+      <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/cheryl-k-chumley/">Cheryl K. Chumley</a></a></h3>
+			<p><a href="/news/2020/sep/5/anthony-fauci-humanist-us-set-sail-globalist-cours/" title="Anthony Fauci, the great &#8216;humanist,&#8217; sets U.S. sailing on globalist, anti-freedom course">Anthony Fauci, the great &#8216;humanist,&#8217; sets U.S. sailing on globalist, anti-freedom course</a></p>
+		</article>
+		
+	
+		
+		<article>
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2020/michael-mckenna-nonstaffmug-v2_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+      <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/michael-mckenna/">Michael McKenna</a></a></h3>
+			<p><a href="/news/2020/sep/4/team-trump-needs-to-pay-more-attention-to-texas/" title="Team Trump needs to pay more attention to Texas">Team Trump needs to pay more attention to Texas</a></p>
+		</article>
+		
+	
+		
+		<article>
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2016/charles-hurt-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+      <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/charles-hurt/">Charles Hurt</a></a></h3>
+			<p><a href="/news/2020/sep/3/joe-biden-the-audacity-of-dope/" title="Joe Biden: The audacity of dope">Joe Biden: The audacity of dope</a></p>
+		</article>
+		
+	
+  </div>
+</section>
+
+<!-- //.our-voices -->
+
+          
+
+          <div id="ad-secondary-sidebar-4" data-size="300x250" class="ad">
+            <div class="ad-slot"
+     id="div-gpt-ad-right-sidebar-bottom"
+     data-ad-settings="desktopRightSideBottom">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-right-sidebar-bottom');
+  ADSFORPAGE.push('div-gpt-ad-right-sidebar-bottom');
+</script>
+</div>
+
+
+          </div>
+
+          
+            
+          
+
+          
+
+        </div>
+      </aside>
+      <!-- //#secondary -->
+
+    </div>
+  </div>
+  <!-- END 2-column layout -->
+
+
+  
+    
+  <div align="center" style="height: 90px">
+      <div class="ad-slot"
+     id="Desktop_MainPage_BTF"
+     data-ad-settings="">
+<script>
+  console.log('__ADS element on page', 'Desktop_MainPage_BTF');
+  ADSFORPAGE.push('Desktop_MainPage_BTF');
+</script>
+</div>
+
+  </div>
+
+
+    <!-- Begin #footer -->
+    <footer id="footer">
+      <div class="footer-inner" style="padding-top: 30px;">
+        
+        <div id="contact-links" class="container">
+          <div class="row">
+            <section class="block newsletter block-email-alerts-footer col-lg-13">
+    <div class="block-content">
+        <h3>Newsletters</h3>
+        <form action="/newsletters/boomtrain/subscribe/" method="post" class="form-inline">
+            
+            <ul style="list-style-type: none; margin: 0; padding: 0;">
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="breaking_news"/>&nbsp;Breaking News</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_bruce"/>&nbsp;Tammy Bruce</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_morning"/>&nbsp;Daily</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_harper"/>&nbsp;Jennifer Harper</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_sunday"/>&nbsp;Weekly</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_gertz"/>&nbsp;Bill Gertz</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_todays-opinion"/>&nbsp;Today's Opinion</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_frontpage"/>&nbsp;Front Page Podcast</li>
+                <li style="display: inline-block; width: 33%;"><input type="checkbox" name="newsletter_hurt"/>&nbsp;Charles Hurt</li>
+            </ul>
+            <br />
+            <input type="text" name="email" class="Email" placeholder="Email Address"/>
+            <input type="hidden" name="newsletter_source" value="footer_signup" />
+            <input type="submit" value="Submit"/>
+        </form>
+    </div>
+    <div class="cb"></div>
+    <p class="newsletter-small" style="font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif; font-size: 12px;"><a href="/terms-of-use/">Terms of Use</a> / <a href="/privacy/">Privacy Policy</a> / <a href="/newsletters/manage/?footer">Manage Newsletters</a></p>
+</section>
+
+            <section class="facebook-links col-sm-15 col-lg-7">
+              <div class="section-inner">
+                <h3>Find us on Facebook</h3>
+                <ul class="links">
+                  <li><a href="https://www.facebook.com/TheWashingtonTimes" title="The Washington Times" target="_blank">The Washington Times</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesOpinion/" title="Opinion" target="_blank">Opinion</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesLocal/" title="Local" target="_blank">Local</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesSports/" title="Sports" target="_blank">Sports</a></li>
+                </ul>
+              </div>
+            </section>
+            <section class="twitter-links col-sm-15 col-lg-10">
+              <div class="section-inner">
+                <h3>Find us on Twitter</h3>
+                <div class="container-fluid">
+                  <div class="row">
+                    <ul class="links">
+                      <li><a href="https://twitter.com/WashTimes" title="The Washington Times" target="_blank">The Washington Times</a></li>
+                      <li><a href="https://twitter.com/WashTimesOpEd" title="Opinion" target="_blank">Opinion</a></li>
+                      <li><a href="https://twitter.com/WashTimesLocal" title="Local" target="_blank">Local</a></li>
+                      <li><a href="https://twitter.com/WashTimesSports" title="Sports" target="_blank">Sports</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+        <!-- //#contact-links -->
+        
+
+        
+        <div id="section-links">
+          <nav id="footer-links" class="container" role="navigation">
+            <div class="row">
+              
+                
+
+	<ul class="menu col-sm-10 col-md-7 col-lg-6">
+		<li class="em"><a href="/" title="Home">Home</a></li>
+		
+			<li class="em"><a href="javascript:;" title="News">News</a></li>
+			
+
+	
+		<li class=""><a href="/news/politics/"  title="Politics">Politics</a></li>
+		
+		<li class=""><a href="/specials/coronavirus-covid-19-pandemic-updates/"  title="COVID-19 Updates ">COVID-19 Updates </a></li>
+		
+		<li class=""><a href="/news/national/"  title="National">National</a></li>
+		
+		<li class=""><a href="/news/world/"  title="World">World</a></li>
+		
+		<li class=""><a href="/news/security/"  title="Security">Security</a></li>
+		
+		<li class=""><a href="/news/business-economy/"  title="Business &amp; Economy">Business & Economy</a></li>
+		
+		<li class=""><a href="/news/local/"  title="D.C. Local">D.C. Local</a></li>
+		
+		<li class=""><a href="/media-spotlight/"  title="Media Spotlight">Media Spotlight</a></li>
+		
+		<li class=""><a href="/news/inside-politics/"  title="Inside Politics">Inside Politics</a></li>
+		
+		<li class=""><a href="/news/inside-the-beltway/"  title="Inside the Beltway">Inside the Beltway</a></li>
+		
+		<li class=""><a href="/news/waste-fraud-abuse/"  title="Waste, Fraud &amp; Abuse">Waste, Fraud & Abuse</a></li>
+		
+		<li class=""><a href="/news/inside-the-ring/"  title="Inside the Ring">Inside the Ring</a></li>
+		
+		<li class=""><a href="/culture/"  title="Culture">Culture</a></li>
+		
+		<li class=""><a href="/culture/entertainment/"  title="Entertainment">Entertainment</a></li>
+		
+		<li class=""><a href="/culture/technology/"  title="Technology">Technology</a></li>
+		
+		<li class=""><a href="https://www.legacy.com/washingtontimes/" title="Obituaries">Obituaries</a></li>
+		
+		<li class=""><a href="/news/today/"  title="Just the Headlines">Just the Headlines</a></li>
+		
+		<li class=""><a href="/specials/trump-central/"  title="Trump Central">Trump Central</a></li>
+		
+		<li class=""><a href="/elections/"  title="Campaign 2020">Campaign 2020</a></li>
+		
+		<li class=""><a href="/multimedia/"  title="Photo Galleries">Photo Galleries</a></li>
+		
+		<li class=""><a href="/specials/dive-deeper/"  title="Dive Deeper">Dive Deeper</a></li>
+		
+
+		
+	</ul>
+
+	<ul class="menu col-sm-10 col-md-7 col-lg-6">
+		
+			<li class="em"><a href="javascript:;" title="Policy">Policy</a></li>
+			
+
+	
+		<li class=""><a href="/specials/energy-environment-news/"  title="Energy &amp; Environment">Energy & Environment</a></li>
+		
+		<li class=""><a href="/specials/banking-finance/"  title="Banking &amp; Finance">Banking & Finance</a></li>
+		
+		<li class=""><a href="/specials/health-care-reform/"  title="Health Care Reform">Health Care Reform</a></li>
+		
+		<li class=""><a href="/specials/second-amendment-and-gun-control/"  title="Second Amendment">Second Amendment</a></li>
+		
+		<li class=""><a href="/specials/immigration-reform/"  title="Immigration Reform">Immigration Reform</a></li>
+		
+		<li class=""><a href="/specials/intelligence-cybersecurity/"  title="Homeland &amp; Cybersecurity">Homeland & Cybersecurity</a></li>
+		
+		<li class=""><a href="/specials/defense-aerospace/"  title="Aerospace &amp; Defense">Aerospace & Defense</a></li>
+		
+		<li class=""><a href="/specials/taxes-budget/"  title="Taxes &amp; Budget">Taxes & Budget</a></li>
+		
+		<li class=""><a href="/specials/law-enforcement-intelligence/"  title="Law Enforcement &amp; Intelligence">Law Enforcement & Intelligence</a></li>
+		
+		<li class=""><a href="/specials/transportation-infrastructure/"  title="Transportation &amp; Infrastructure">Transportation & Infrastructure</a></li>
+		
+
+		
+		<li class="em"><a href="/specials/" title="Specials">Specials</a>
+	</ul>
+
+	<ul class="menu col-sm-10 col-md-7 col-lg-6">
+	
+		<li class="em"><a href="/opinion/" title="Commentary">Commentary</a></li>
+		
+
+	
+		<li class=""><a href="/opinion/"  title="Commentary Main">Commentary Main</a></li>
+		
+		<li class=""><a href="/opinion/editorials/"  title="Editorials">Editorials</a></li>
+		
+		<li class=""><a href="/opinion/letters/"  title="Letters">Letters</a></li>
+		
+		<li class=""><a href="/opinion/pruden-on-politics/"  title="Pruden on Politics">Pruden on Politics</a></li>
+		
+		<li class=""><a href="/staff/charles-hurt/"  title="Charles Hurt">Charles Hurt</a></li>
+		
+		<li class=""><a href="/staff/david-keene/"  title="David Keene">David Keene</a></li>
+		
+		<li class=""><a href="/staff/tammy-bruce/"  title="Tammy Bruce">Tammy Bruce</a></li>
+		
+		<li class=""><a href="/staff/ralph-z-hallow/"  title="Ralph Z. Hallow">Ralph Z. Hallow</a></li>
+		
+		<li class=""><a href="/staff/scott-walker/"  title="Scott Walker">Scott Walker</a></li>
+		
+		<li class=""><a href="/staff/michael-mckenna/"  title="Michael McKenna">Michael McKenna</a></li>
+		
+		<li class=""><a href="/staff/cal-thomas/"  title="Cal Thomas">Cal Thomas</a></li>
+		
+		<li class=""><a href="/staff/clifford-d-may/"  title="Clifford D. May">Clifford D. May</a></li>
+		
+		<li class=""><a href="/staff/cheryl-k-chumley/"  title="Cheryl K. Chumley">Cheryl K. Chumley</a></li>
+		
+		<li class=""><a href="/staff/joseph-curl/"  title="Joseph Curl">Joseph Curl</a></li>
+		
+		<li class=""><a href="/staff/everett-piper/"  title="Everett Piper">Everett Piper</a></li>
+		
+		<li class=""><a href="/staff/daniel-n-hoffman/"  title="Daniel N. Hoffman">Daniel N. Hoffman</a></li>
+		
+		<li class=""><a href="/staff/robert-knight/"  title="Robert Knight">Robert Knight</a></li>
+		
+		<li class=""><a href="/opinion/rapid-reactions/"  title="Rapid Reactions">Rapid Reactions</a></li>
+		
+		<li class=""><a href="/staff/tim-constantine/"  title="Tim Constantine">Tim Constantine</a></li>
+		
+		<li class=""><a href="/books/"  title="Books">Books</a></li>
+		
+		<li class=""><a href="/cartoons/"  title="Cartoons">Cartoons</a></li>
+		
+		<li class=""><a href="/opinion/us-russia-crosstalk/"  title="U.S.-Russia Crosstalk">U.S.-Russia Crosstalk</a></li>
+		
+
+	
+	</ul>
+
+	<div class="clearfix visible-sm"></div>
+
+	<ul class="menu col-sm-10 col-md-7 col-lg-6">
+	
+		<li class="em"><a href="/sports/" title="Sports">Sports</a></li>
+		
+
+	
+		<li class=""><a href="/sports/"  title="Sports Main">Sports Main</a></li>
+		
+		<li class=""><a href="/specials/washington-redskins-season/"  title="Washington NFL Team">Washington NFL Team</a></li>
+		
+		<li class=""><a href="/sports/football/"  title="Football">Football</a></li>
+		
+		<li class=""><a href="/sports/baseball/"  title="Baseball">Baseball</a></li>
+		
+		<li class=""><a href="/sports/basketball/"  title="Basketball">Basketball</a></li>
+		
+		<li class=""><a href="/sports/ncaa/"  title="NCAA">NCAA</a></li>
+		
+		<li class=""><a href="/staff/thom-loverro/"  title="Thom Loverro">Thom Loverro</a></li>
+		
+		<li class=""><a href="/sports/tennis/"  title="Tennis">Tennis</a></li>
+		
+		<li class=""><a href="/sports/golf/"  title="Golf">Golf</a></li>
+		
+		<li class=""><a href="/sports/hockey/"  title="Hockey">Hockey</a></li>
+		
+		<li class=""><a href="/sports/soccer/"  title="Soccer">Soccer</a></li>
+		
+		<li class=""><a href="/sports/horse-racing/"  title="Horse Racing">Horse Racing</a></li>
+		
+		<li class=""><a href="/sports/racing/"  title="NASCAR &amp; Racing">NASCAR & Racing</a></li>
+		
+
+	
+	</ul>
+
+	<div class="clearfix visible-md"></div>
+
+	<ul class="menu col-sm-10 col-md-7 col-lg-6">
+	
+		<li class="em"><a href="/specials/" title="Special Reports">Special Reports</a></li>
+		
+
+	
+		<li class=""><a href="/specials/"  title="Special Reports Main">Special Reports Main</a></li>
+		
+		<li class=""><a href="/specials/coronavirus-covid-19-pandemic-updates/"  title="COVID-19 Updates ">COVID-19 Updates </a></li>
+		
+		<li class=""><a href="/specials/losing-our-religion-fall-faith-threatens-america/"  title="Losing our religion">Losing our religion</a></li>
+		
+		<li class=""><a href="/specials/new-africa/"  title="New Africa">New Africa</a></li>
+		
+		<li class=""><a href="/specials/qatar-what-makes-americas-great-ally-special/"  title="Qatar">Qatar</a></li>
+		
+		<li class=""><a href="/specials/energy-2019/"  title="Energy 2019">Energy 2019</a></li>
+		
+		<li class=""><a href="/specials/infrastructure-2019/"  title="Infrastructure 2019">Infrastructure 2019</a></li>
+		
+		<li class=""><a href="/specials/faith-and-family/"  title="Faith &amp; Family">Faith & Family</a></li>
+		
+		<li class=""><a href="/specials/cyprus/"  title="Cyprus 2020">Cyprus 2020</a></li>
+		
+		<li class=""><a href="/specials/iran-freedom-within-reach/"  title="Free Iran Global Summit">Free Iran Global Summit</a></li>
+		
+
+	
+	</ul>
+
+	<div class="clearfix"></div>
+	<!-- clear row all --> 
+
+              
+            </div>
+          </nav>
+        </div>
+        
+
+        <nav id="footer-nav" role="navigation">
+          <div class="container">
+            <ul class="menu">
+              <li><a href="/subscribe/?subscribe-link-footer" title="Subscribe">Subscribe</a></li>
+              <li><a href="http://classified.washingtontimes.com" title="Classifieds" target="_blank">Classifieds</a></li>
+              <li><a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=footer" title="E-edition" target="_blank">E-edition</a></li>
+              <li><a href="/customer-service/" title="Customer Service">Customer Service</a></li>
+              <li><a href="/about/jobs/" title="Careers">Careers</a></li>
+              <li><a href="/terms-of-use/" title="Terms">Terms</a></li>
+              <li><a href="/privacy/" title="Privacy">Privacy</a></li>
+              <li><a href="/feeds/" title="RSS">RSS</a></li>
+              <li><a href="/advertise/" title="Advertise">Advertise</a></li>
+              <li><a href="/faq/" title="FAQ">FAQ</a></li>
+              <li><a href="/about/" title="About">About</a></li>
+              <li><a href="/contact-us/" title="Contact">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
+        <section id="colophon">
+          <div class="container">
+            <h6 class="vcard"><span class="copyright-info">All site contents <span title="full">&copy;</span> Copyright <span class="YYYY">2020</span>&nbsp;<span class="nowrap fn">The Washington Times, LLC</span> <span class="separator">|</span></span> <span class="address">3600 New York Avenue NE <span class="separator">|</span> Washington, DC 20002 <span class="separator">|</span> <span class="tel" data-vcard-tel="+12026363000">202-636-3000</span></span></h6>
+          </div>
+        </section>
+      </div>
+    </footer>
+    <!-- End #footer -->
+  
+
+  
+
+
+
+<script>
+    MODALOPTIONS = [];
+</script>
+
+
+  
+  
+
+  <!-- Begin Global Scripts -->
+  <script src="//twt-assets.washtimes.com/js/global.9124b0988b1c.js"></script>
+  <!--End Global Scripts -->
+
+  <script>
+    var isFBReferral = document.cookie.match('RefererIsFacebook=1');
+    if (isFBReferral) {
+      var flaggedElems = document.getElementsByClassName("do-not-display-flag");
+      var numItems = flaggedElems.length;
+      for (var i=0; i<numItems; i++) {
+        flaggedElems[0].remove();
+      }
+    }
+  </script>
+
+  <!-- Quantcast Tag -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+
+  _qevents.push({
+    qacct:"p-c69_1G6fdlihY"
+  });
+</script>
+
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-c69_1G6fdlihY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- BEGIN Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 878499686;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/878499686/?guid=ON&amp;script=0"/></div>
+</noscript>
+<!-- END Google Code for Remarketing Tag -->
+
+<!-- BEGIN Linkedin Pixel -->
+<script type="text/javascript">
+_linkedin_partner_id = "1586410";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1586410&fmt=gif" />
+</noscript>
+<!-- END Linkedin Pixel -->
+
+  
+
+  
+
+<!--START Lightbox Javascript-->
+<script type="text/javascript">
+(function () {
+var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true;
+e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.lightboxcdn.com/vendor/a03ff559-e73a-4fb6-91a2-074fb72400fe/lightbox.js?mb=' + (new Date().getTime());
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s);
+})();
+</script>
+<!--END Lightbox Javascript-->
+
+  
+  <script>
+    (function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("//experience.tinypass.com/xbuilder/experience/load?aid=hph4LAYuC6");
+  </script>
+
+<script>
+  tp = window.tp || [];
+  console.log('TP setUsePianoIdUserProvider');
+  tp.push(["setUsePianoIdUserProvider", true ]);         // Piano ID Initialization
+
+  
+</script>
+
+  
+  <script>
+    tp = window.tp || [];
+    tp.push(["init", function () {
+      tp.push(["setTags", ['Politics']]);
+    }]);
+  </script>
+
+
+</body>
+</html>
